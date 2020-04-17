@@ -1,0 +1,6168 @@
+[#VERSION]
+UST Version1.2
+[#SETTING]
+tem=175.00þþÌÌÌÌÌÌÌÌ
+Tracks=1
+ProjectName=E:\ÒôÀÖ\ÇúÆ×\¾ÍÊÇ²»Ìý»°
+VoiceDir=%VOICE%uta
+OutFile=
+CacheDir=E:\ÒôÀÖ\ÇúÆ×\¾ÍÊÇ²»Ìý»°.cache
+Tool1=wavtool.exe
+Tool2=resampler.exe
+[#0000]
+Length=960
+Lyric=R
+NoteNum=60
+PreUtterance=
+[#0001]
+Length=240
+Lyric=xi
+NoteNum=50
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0002]
+Length=240
+Lyric=yang
+NoteNum=55
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0003]
+Length=240
+Lyric=kuai
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0004]
+Length=240
+Lyric=xia
+NoteNum=57
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0005]
+Length=3120
+Lyric=shan
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0006]
+Length=1680
+Lyric=R
+NoteNum=60
+PreUtterance=
+[#0007]
+Length=480
+Lyric=wo
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0008]
+Length=480
+Lyric=zai
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0009]
+Length=240
+Lyric=ri
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0010]
+Length=240
+Lyric=chang
+NoteNum=60
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0011]
+Length=240
+Lyric=fa
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0012]
+Length=1080
+Lyric=zhan
+NoteNum=55
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0013]
+Length=840
+Lyric=R
+NoteNum=60
+PreUtterance=
+[#0014]
+Length=240
+Lyric=ri
+NoteNum=50
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0015]
+Length=720
+Lyric=ji
+NoteNum=60
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0016]
+Length=240
+Lyric=hai
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0017]
+Length=240
+Lyric=mei
+NoteNum=60
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0018]
+Length=240
+Lyric=xie
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0019]
+Length=1200
+Lyric=wan
+NoteNum=55
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0020]
+Length=1200
+Lyric=R
+NoteNum=60
+PreUtterance=
+[#0021]
+Length=480
+Lyric=du
+NoteNum=55
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0022]
+Length=480
+Lyric=jia
+NoteNum=54
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0023]
+Length=480
+Lyric=lai
+NoteNum=52
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0024]
+Length=480
+Lyric=dao
+NoteNum=48
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0025]
+Length=240
+Lyric=le
+NoteNum=52
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0026]
+Length=480
+Lyric=da
+NoteNum=54
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0027]
+Length=240
+Lyric=hai
+NoteNum=55
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0028]
+Length=840
+Lyric=bian
+NoteNum=57
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0029]
+Length=480
+Lyric=zao
+NoteNum=52
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0030]
+Length=480
+Lyric=jiu
+NoteNum=57
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0031]
+Length=1200
+Lyric=zuo
+NoteNum=56
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0032]
+Length=240
+Lyric=li
+NoteNum=57
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0033]
+Length=600
+Lyric=bu
+NoteNum=56
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0034]
+Length=1080
+Lyric=an
+NoteNum=52
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0035]
+Length=360
+Lyric=R
+NoteNum=60
+PreUtterance=
+[#0036]
+Length=240
+Lyric=wo
+NoteNum=52
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0037]
+Length=240
+Lyric=bu
+NoteNum=54
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0038]
+Length=1920
+Lyric=guan
+NoteNum=55
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0039]
+Length=960
+Lyric=R
+NoteNum=60
+PreUtterance=
+[#0040]
+Length=480
+Lyric=wo
+NoteNum=50
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0041]
+Length=480
+Lyric=bu
+NoteNum=54
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0042]
+Length=2520
+Lyric=guan
+NoteNum=55
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0043]
+Length=1320
+Lyric=R
+NoteNum=60
+PreUtterance=
+[#0044]
+Length=480
+Lyric=kai
+NoteNum=55
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0045]
+Length=240
+Lyric=shi
+NoteNum=55
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0046]
+Length=240
+Lyric=ba
+NoteNum=55
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0047]
+Length=240
+Lyric=R
+NoteNum=60
+PreUtterance=
+[#0048]
+Length=240
+Lyric=lai
+NoteNum=55
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0049]
+Length=240
+Lyric=gao
+NoteNum=53
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0050]
+Length=240
+Lyric=shi
+NoteNum=54
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0051]
+Length=240
+Lyric=R
+NoteNum=60
+PreUtterance=
+[#0052]
+Length=240
+Lyric=pi
+NoteNum=55
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0053]
+Length=240
+Lyric=li
+NoteNum=53
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0054]
+Length=240
+Lyric=pa
+NoteNum=54
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0055]
+Length=240
+Lyric=la
+NoteNum=55
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0056]
+Length=240
+Lyric=R
+NoteNum=60
+PreUtterance=
+[#0057]
+Length=240
+Lyric=fan
+NoteNum=58
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0058]
+Length=240
+Lyric=zheng
+NoteNum=57
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0059]
+Length=480
+Lyric=jiu
+NoteNum=55
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0060]
+Length=480
+Lyric=shi
+NoteNum=55
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0061]
+Length=240
+Lyric=bu
+NoteNum=53
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0062]
+Length=480
+Lyric=ting
+NoteNum=54
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0063]
+Length=240
+Lyric=hua
+NoteNum=55
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0064]
+Length=960
+Lyric=R
+NoteNum=60
+PreUtterance=
+[#0065]
+Length=240
+Lyric=heng
+NoteNum=64
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0066]
+Length=720
+Lyric=R
+NoteNum=60
+PreUtterance=
+[#0067]
+Length=360
+Lyric=la
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0068]
+Length=360
+Lyric=la
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0069]
+Length=480
+Lyric=la
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0070]
+Length=120
+Lyric=la
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0071]
+Length=120
+Lyric=la
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0072]
+Length=120
+Lyric=la
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0073]
+Length=120
+Lyric=la
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0074]
+Length=240
+Lyric=la
+NoteNum=60
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0075]
+Length=360
+Lyric=la
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0076]
+Length=360
+Lyric=la
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0077]
+Length=480
+Lyric=la
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0078]
+Length=120
+Lyric=la
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0079]
+Length=120
+Lyric=la
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0080]
+Length=120
+Lyric=la
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0081]
+Length=120
+Lyric=la
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0082]
+Length=240
+Lyric=la
+NoteNum=60
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0083]
+Length=360
+Lyric=la
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0084]
+Length=360
+Lyric=la
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0085]
+Length=480
+Lyric=la
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0086]
+Length=120
+Lyric=la
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0087]
+Length=120
+Lyric=la
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0088]
+Length=120
+Lyric=la
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0089]
+Length=120
+Lyric=la
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0090]
+Length=240
+Lyric=la
+NoteNum=60
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0091]
+Length=360
+Lyric=la
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0092]
+Length=360
+Lyric=la
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0093]
+Length=480
+Lyric=la
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0094]
+Length=240
+Lyric=la
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0095]
+Length=480
+Lyric=la
+NoteNum=60
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0096]
+Length=360
+Lyric=la
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0097]
+Length=360
+Lyric=la
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0098]
+Length=480
+Lyric=la
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0099]
+Length=120
+Lyric=la
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0100]
+Length=120
+Lyric=la
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0101]
+Length=120
+Lyric=la
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0102]
+Length=120
+Lyric=la
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0103]
+Length=240
+Lyric=la
+NoteNum=60
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0104]
+Length=360
+Lyric=la
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0105]
+Length=360
+Lyric=la
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0106]
+Length=480
+Lyric=la
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0107]
+Length=120
+Lyric=la
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0108]
+Length=120
+Lyric=la
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0109]
+Length=120
+Lyric=la
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0110]
+Length=120
+Lyric=la
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0111]
+Length=240
+Lyric=la
+NoteNum=60
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0112]
+Length=360
+Lyric=la
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0113]
+Length=360
+Lyric=la
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0114]
+Length=480
+Lyric=la
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0115]
+Length=120
+Lyric=la
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0116]
+Length=120
+Lyric=la
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0117]
+Length=120
+Lyric=la
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0118]
+Length=120
+Lyric=la
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0119]
+Length=240
+Lyric=la
+NoteNum=60
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0120]
+Length=360
+Lyric=la
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0121]
+Length=360
+Lyric=la
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0122]
+Length=480
+Lyric=la
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0123]
+Length=240
+Lyric=la
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0124]
+Length=480
+Lyric=la
+NoteNum=60
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0125]
+Length=360
+Lyric=la
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0126]
+Length=360
+Lyric=la
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0127]
+Length=480
+Lyric=la
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0128]
+Length=120
+Lyric=la
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0129]
+Length=120
+Lyric=la
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0130]
+Length=120
+Lyric=la
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0131]
+Length=120
+Lyric=la
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0132]
+Length=240
+Lyric=la
+NoteNum=60
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0133]
+Length=360
+Lyric=la
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0134]
+Length=360
+Lyric=la
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0135]
+Length=480
+Lyric=la
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0136]
+Length=120
+Lyric=la
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0137]
+Length=120
+Lyric=la
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0138]
+Length=120
+Lyric=la
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0139]
+Length=120
+Lyric=la
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0140]
+Length=240
+Lyric=la
+NoteNum=60
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0141]
+Length=360
+Lyric=la
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0142]
+Length=360
+Lyric=la
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0143]
+Length=480
+Lyric=la
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0144]
+Length=120
+Lyric=la
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0145]
+Length=120
+Lyric=la
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0146]
+Length=120
+Lyric=la
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0147]
+Length=120
+Lyric=la
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0148]
+Length=240
+Lyric=la
+NoteNum=60
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0149]
+Length=360
+Lyric=la
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0150]
+Length=360
+Lyric=la
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0151]
+Length=480
+Lyric=la
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0152]
+Length=240
+Lyric=la
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0153]
+Length=480
+Lyric=la
+NoteNum=60
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0154]
+Length=360
+Lyric=la
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0155]
+Length=360
+Lyric=la
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0156]
+Length=480
+Lyric=la
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0157]
+Length=120
+Lyric=la
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0158]
+Length=120
+Lyric=la
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0159]
+Length=120
+Lyric=la
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0160]
+Length=120
+Lyric=la
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0161]
+Length=240
+Lyric=la
+NoteNum=60
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0162]
+Length=360
+Lyric=la
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0163]
+Length=360
+Lyric=la
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0164]
+Length=480
+Lyric=la
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0165]
+Length=120
+Lyric=la
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0166]
+Length=120
+Lyric=la
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0167]
+Length=120
+Lyric=la
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0168]
+Length=120
+Lyric=la
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0169]
+Length=240
+Lyric=la
+NoteNum=60
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0170]
+Length=360
+Lyric=la
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0171]
+Length=360
+Lyric=la
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0172]
+Length=240
+Lyric=la
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0173]
+Length=360
+Lyric=la
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0174]
+Length=360
+Lyric=la
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0175]
+Length=240
+Lyric=la
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0176]
+Length=1200
+Lyric=R
+NoteNum=60
+PreUtterance=
+[#0177]
+Length=240
+Lyric=er
+NoteNum=50
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0178]
+Length=240
+Lyric=tong
+NoteNum=52
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0179]
+Length=240
+Lyric=shu
+NoteNum=50
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0180]
+Length=480
+Lyric=zhong
+NoteNum=55
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0181]
+Length=240
+Lyric=xie
+NoteNum=55
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0182]
+Length=240
+Lyric=zhe
+NoteNum=55
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0183]
+Length=240
+Lyric=xu
+NoteNum=55
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0184]
+Length=480
+Lyric=duo
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0185]
+Length=480
+Lyric=qiang
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0186]
+Length=240
+Lyric=xing
+NoteNum=60
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0187]
+Length=240
+Lyric=wei
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0188]
+Length=240
+Lyric=hai
+NoteNum=60
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0189]
+Length=240
+Lyric=zi
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0190]
+Length=240
+Lyric=bian
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0191]
+Length=240
+Lyric=zhi
+NoteNum=57
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0192]
+Length=240
+Lyric=de
+NoteNum=55
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0193]
+Length=480
+Lyric=xia
+NoteNum=55
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0194]
+Length=240
+Lyric=ri
+NoteNum=55
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0195]
+Length=240
+Lyric=R
+NoteNum=60
+PreUtterance=
+[#0196]
+Length=240
+Lyric=hai
+NoteNum=55
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0197]
+Length=240
+Lyric=yang
+NoteNum=54
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0198]
+Length=240
+Lyric=huan
+NoteNum=52
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0199]
+Length=720
+Lyric=xiang
+NoteNum=50
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0200]
+Length=720
+Lyric=R
+NoteNum=60
+PreUtterance=
+[#0201]
+Length=240
+Lyric=ge
+NoteNum=52
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0202]
+Length=240
+Lyric=lun
+NoteNum=54
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0203]
+Length=240
+Lyric=bu
+NoteNum=55
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0204]
+Length=480
+Lyric=kun
+NoteNum=57
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0205]
+Length=480
+Lyric=zai
+NoteNum=57
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0206]
+Length=240
+Lyric=gu
+NoteNum=57
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0207]
+Length=240
+Lyric=dao
+NoteNum=52
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0208]
+Length=240
+Lyric=R
+NoteNum=60
+PreUtterance=
+[#0209]
+Length=480
+Lyric=ai
+NoteNum=56
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0210]
+Length=240
+Lyric=li
+NoteNum=56
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0211]
+Length=240
+Lyric=er
+NoteNum=56
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0212]
+Length=240
+Lyric=que
+NoteNum=56
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0213]
+Length=240
+Lyric=kan
+NoteNum=56
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0214]
+Length=240
+Lyric=shang
+NoteNum=52
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0215]
+Length=240
+Lyric=R
+NoteNum=60
+PreUtterance=
+[#0216]
+Length=240
+Lyric=reng
+NoteNum=54
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0217]
+Length=480
+Lyric=piao
+NoteNum=55
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0218]
+Length=480
+Lyric=liu
+NoteNum=57
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0219]
+Length=240
+Lyric=ping
+NoteNum=55
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0220]
+Length=240
+Lyric=de
+NoteNum=54
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0221]
+Length=240
+Lyric=R
+NoteNum=60
+PreUtterance=
+[#0222]
+Length=120
+Lyric=mou
+NoteNum=54
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0223]
+Length=120
+Lyric=wei
+NoteNum=55
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0224]
+Length=240
+Lyric=hai
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0225]
+Length=480
+Lyric=dao
+NoteNum=57
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0226]
+Length=480
+Lyric=chuan
+NoteNum=55
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0227]
+Length=480
+Lyric=chang
+NoteNum=57
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0228]
+Length=240
+Lyric=R
+NoteNum=60
+PreUtterance=
+[#0229]
+Length=480
+Lyric=lao
+NoteNum=55
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0230]
+Length=240
+Lyric=ren
+NoteNum=55
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0231]
+Length=240
+Lyric=bei
+NoteNum=55
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0232]
+Length=240
+Lyric=da
+NoteNum=55
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0233]
+Length=240
+Lyric=yu
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0234]
+Length=240
+Lyric=R
+NoteNum=60
+PreUtterance=
+[#0235]
+Length=480
+Lyric=dai
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0236]
+Length=240
+Lyric=dao
+NoteNum=60
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0237]
+Length=240
+Lyric=long
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0238]
+Length=240
+Lyric=gong
+NoteNum=60
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0239]
+Length=240
+Lyric=li
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0240]
+Length=240
+Lyric=xuan
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0241]
+Length=240
+Lyric=nao
+NoteNum=57
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0242]
+Length=240
+Lyric=yi
+NoteNum=55
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0243]
+Length=720
+Lyric=chang
+NoteNum=53
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0244]
+Length=480
+Lyric=R
+NoteNum=60
+PreUtterance=
+[#0245]
+Length=240
+Lyric=gan
+NoteNum=53
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0246]
+Length=240
+Lyric=pao
+NoteNum=55
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0247]
+Length=240
+Lyric=le
+NoteNum=53
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0248]
+Length=480
+Lyric=xia
+NoteNum=52
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0249]
+Length=240
+Lyric=bing
+NoteNum=64
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0250]
+Length=480
+Lyric=xie
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0251]
+Length=480
+Lyric=jiang
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0252]
+Length=240
+Lyric=R
+NoteNum=60
+PreUtterance=
+[#0253]
+Length=240
+Lyric=zhen
+NoteNum=60
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0254]
+Length=480
+Lyric=bian
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0255]
+Length=480
+Lyric=gu
+NoteNum=55
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0256]
+Length=240
+Lyric=shi
+NoteNum=52
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0257]
+Length=240
+Lyric=R
+NoteNum=60
+PreUtterance=
+[#0258]
+Length=120
+Lyric=shan
+NoteNum=57
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0259]
+Length=120
+Lyric=xian
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0260]
+Length=240
+Lyric=zai
+NoteNum=60
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0261]
+Length=480
+Lyric=mei
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0262]
+Length=480
+Lyric=ge
+NoteNum=60
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0263]
+Length=240
+Lyric=wan
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0264]
+Length=240
+Lyric=shang
+NoteNum=60
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0265]
+Length=240
+Lyric=R
+NoteNum=60
+PreUtterance=
+[#0266]
+Length=480
+Lyric=ban
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0267]
+Length=480
+Lyric=sui
+NoteNum=55
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0268]
+Length=240
+Lyric=hu
+NoteNum=54
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0269]
+Length=240
+Lyric=si
+NoteNum=55
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0270]
+Length=240
+Lyric=luan
+NoteNum=57
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0271]
+Length=240
+Lyric=xiang
+NoteNum=55
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0272]
+Length=240
+Lyric=R
+NoteNum=60
+PreUtterance=
+[#0273]
+Length=240
+Lyric=jin
+NoteNum=55
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0274]
+Length=240
+Lyric=ru
+NoteNum=55
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0275]
+Length=240
+Lyric=meng
+NoteNum=55
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0276]
+Length=240
+Lyric=xiang
+NoteNum=55
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0277]
+Length=720
+Lyric=R
+NoteNum=60
+PreUtterance=
+[#0278]
+Length=960
+Lyric=zhui
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0279]
+Length=480
+Lyric=zhe
+NoteNum=60
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0280]
+Length=480
+Lyric=pi
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0281]
+Length=240
+Lyric=qiu
+NoteNum=60
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0282]
+Length=480
+Lyric=ben
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0283]
+Length=480
+Lyric=pao
+NoteNum=55
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0284]
+Length=240
+Lyric=R
+NoteNum=60
+PreUtterance=
+[#0285]
+Length=240
+Lyric=hao
+NoteNum=52
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0286]
+Length=240
+Lyric=xiang
+NoteNum=55
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0287]
+Length=240
+Lyric=R
+NoteNum=60
+PreUtterance=
+[#0288]
+Length=240
+Lyric=zhe
+NoteNum=55
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0289]
+Length=240
+Lyric=yang
+NoteNum=55
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0290]
+Length=240
+Lyric=jiu
+NoteNum=55
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0291]
+Length=480
+Lyric=ke
+NoteNum=55
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0292]
+Length=240
+Lyric=yi
+NoteNum=50
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0293]
+Length=480
+Lyric=dao
+NoteNum=57
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0294]
+Length=240
+Lyric=tian
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0295]
+Length=240
+Lyric=ya
+NoteNum=57
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0296]
+Length=240
+Lyric=hai
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0297]
+Length=240
+Lyric=jiao
+NoteNum=55
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0298]
+Length=480
+Lyric=R
+NoteNum=60
+PreUtterance=
+[#0299]
+Length=120
+Lyric=chuan
+NoteNum=52
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0300]
+Length=120
+Lyric=suo
+NoteNum=55
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0301]
+Length=480
+Lyric=zai
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0302]
+Length=480
+Lyric=mo
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0303]
+Length=480
+Lyric=sheng
+NoteNum=60
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0304]
+Length=480
+Lyric=ren
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0305]
+Length=240
+Lyric=zhi
+NoteNum=60
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0306]
+Length=480
+Lyric=jian
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0307]
+Length=480
+Lyric=shang
+NoteNum=55
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0308]
+Length=480
+Lyric=cuan
+NoteNum=52
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0309]
+Length=240
+Lyric=xia
+NoteNum=50
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0310]
+Length=960
+Lyric=tiao
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0311]
+Length=720
+Lyric=R
+NoteNum=60
+PreUtterance=
+[#0312]
+Length=480
+Lyric=cai
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0313]
+Length=240
+Lyric=jiao
+NoteNum=60
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0314]
+Length=240
+Lyric=bei
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0315]
+Length=240
+Lyric=zhua
+NoteNum=60
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0316]
+Length=480
+Lyric=bao
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0317]
+Length=480
+Lyric=R
+NoteNum=60
+PreUtterance=
+[#0318]
+Length=960
+Lyric=xiao
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0319]
+Length=480
+Lyric=gou
+NoteNum=60
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0320]
+Length=480
+Lyric=ni
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0321]
+Length=240
+Lyric=deng
+NoteNum=60
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0322]
+Length=480
+Lyric=zhe
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0323]
+Length=480
+Lyric=qiao
+NoteNum=55
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0324]
+Length=240
+Lyric=R
+NoteNum=60
+PreUtterance=
+[#0325]
+Length=240
+Lyric=jing
+NoteNum=52
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0326]
+Length=240
+Lyric=ran
+NoteNum=55
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0327]
+Length=480
+Lyric=jiao
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0328]
+Length=240
+Lyric=lai
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0329]
+Length=240
+Lyric=le
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0330]
+Length=480
+Lyric=ba
+NoteNum=64
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0331]
+Length=480
+Lyric=ba
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0332]
+Length=240
+Lyric=kan
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0333]
+Length=480
+Lyric=re
+NoteNum=57
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0334]
+Length=720
+Lyric=nao
+NoteNum=56
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0335]
+Length=480
+Lyric=R
+NoteNum=60
+PreUtterance=
+[#0336]
+Length=480
+Lyric=hai
+NoteNum=52
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0337]
+Length=480
+Lyric=lu
+NoteNum=54
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0338]
+Length=480
+Lyric=chu
+NoteNum=55
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0339]
+Length=240
+Lyric=R
+NoteNum=60
+PreUtterance=
+[#0340]
+Length=480
+Lyric=gao
+NoteNum=52
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0341]
+Length=240
+Lyric=shi
+NoteNum=52
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0342]
+Length=480
+Lyric=wei
+NoteNum=54
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0343]
+Length=480
+Lyric=xiao
+NoteNum=55
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0344]
+Length=240
+Lyric=wo
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0345]
+Length=240
+Lyric=zhi
+NoteNum=60
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0346]
+Length=1440
+Lyric=xiang
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0347]
+Length=480
+Lyric=R
+NoteNum=60
+PreUtterance=
+[#0348]
+Length=240
+Lyric=dang
+NoteNum=64
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0349]
+Length=480
+Lyric=ge
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0350]
+Length=480
+Lyric=bao
+NoteNum=64
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0351]
+Length=720
+Lyric=bao
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0352]
+Length=3120
+Lyric=R
+NoteNum=60
+PreUtterance=
+[#0353]
+Length=240
+Lyric=hai
+NoteNum=55
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0354]
+Length=240
+Lyric=na
+NoteNum=57
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0355]
+Length=240
+Lyric=bian
+NoteNum=55
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0356]
+Length=480
+Lyric=zhu
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0357]
+Length=480
+Lyric=zhe
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0358]
+Length=240
+Lyric=jing
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0359]
+Length=480
+Lyric=ling
+NoteNum=60
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0360]
+Length=240
+Lyric=zu
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0361]
+Length=240
+Lyric=hai
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0362]
+Length=480
+Lyric=shi
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0363]
+Length=480
+Lyric=da
+NoteNum=60
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0364]
+Length=480
+Lyric=hui
+NoteNum=60
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0365]
+Length=240
+Lyric=lang
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0366]
+Length=480
+Lyric=zhang
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0367]
+Length=480
+Lyric=chao
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0368]
+Length=240
+Lyric=shi
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0369]
+Length=480
+Lyric=bu
+NoteNum=60
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0370]
+Length=240
+Lyric=shi
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0371]
+Length=240
+Lyric=shen
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0372]
+Length=480
+Lyric=xian
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0373]
+Length=480
+Lyric=tui
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0374]
+Length=240
+Lyric=bo
+NoteNum=60
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0375]
+Length=240
+Lyric=zhu
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0376]
+Length=240
+Lyric=lang
+NoteNum=55
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0377]
+Length=480
+Lyric=neng
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0378]
+Length=480
+Lyric=fou
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0379]
+Length=240
+Lyric=yong
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0380]
+Length=480
+Lyric=yu
+NoteNum=60
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0381]
+Length=240
+Lyric=wang
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0382]
+Length=240
+Lyric=lao
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0383]
+Length=480
+Lyric=yi
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0384]
+Length=480
+Lyric=zhi
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0385]
+Length=240
+Lyric=li
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0386]
+Length=240
+Lyric=yu
+NoteNum=60
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0387]
+Length=240
+Lyric=wang
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0388]
+Length=480
+Lyric=hai
+NoteNum=55
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0389]
+Length=480
+Lyric=zi
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0390]
+Length=480
+Lyric=de
+NoteNum=55
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0391]
+Length=240
+Lyric=xiang
+NoteNum=64
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0392]
+Length=480
+Lyric=fa
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0393]
+Length=480
+Lyric=he
+NoteNum=60
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0394]
+Length=480
+Lyric=shui
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0395]
+Length=240
+Lyric=ye
+NoteNum=60
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0396]
+Length=240
+Lyric=bu
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0397]
+Length=240
+Lyric=jiang
+NoteNum=57
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0398]
+Length=480
+Lyric=man
+NoteNum=52
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0399]
+Length=480
+Lyric=man
+NoteNum=55
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0400]
+Length=480
+Lyric=bei
+NoteNum=52
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0401]
+Length=480
+Lyric=shuo
+NoteNum=55
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0402]
+Length=480
+Lyric=bu
+NoteNum=52
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0403]
+Length=240
+Lyric=guai
+NoteNum=55
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0404]
+Length=240
+Lyric=qiao
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0405]
+Length=240
+Lyric=R
+NoteNum=60
+PreUtterance=
+[#0406]
+Length=240
+Lyric=zhi
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0407]
+Length=240
+Lyric=yin
+NoteNum=57
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0408]
+Length=240
+Lyric=wei
+NoteNum=55
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0409]
+Length=480
+Lyric=you
+NoteNum=50
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0410]
+Length=480
+Lyric=man
+NoteNum=55
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0411]
+Length=480
+Lyric=man
+NoteNum=50
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0412]
+Length=240
+Lyric=wen
+NoteNum=55
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0413]
+Length=240
+Lyric=hao
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0414]
+Length=240
+Lyric=R
+NoteNum=60
+PreUtterance=
+[#0415]
+Length=240
+Lyric=yin
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0416]
+Length=240
+Lyric=wei
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0417]
+Length=240
+Lyric=wo
+NoteNum=60
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0418]
+Length=240
+Lyric=shi
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0419]
+Length=240
+Lyric=tao
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0420]
+Length=240
+Lyric=qi
+NoteNum=57
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0421]
+Length=240
+Lyric=bao
+NoteNum=55
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0422]
+Length=480
+Lyric=R
+NoteNum=60
+PreUtterance=
+[#0423]
+Length=240
+Lyric=zhi
+NoteNum=60
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0424]
+Length=240
+Lyric=hao
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0425]
+Length=480
+Lyric=rang
+NoteNum=55
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0426]
+Length=240
+Lyric=R
+NoteNum=60
+PreUtterance=
+[#0427]
+Length=480
+Lyric=pi
+NoteNum=60
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0428]
+Length=240
+Lyric=gu
+NoteNum=60
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0429]
+Length=480
+Lyric=ai
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0430]
+Length=480
+Lyric=yi
+NoteNum=55
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0431]
+Length=240
+Lyric=ba
+NoteNum=52
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0432]
+Length=480
+Lyric=zhang
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0433]
+Length=240
+Lyric=zai
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0434]
+Length=240
+Lyric=tou
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0435]
+Length=240
+Lyric=tou
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0436]
+Length=480
+Lyric=mo
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0437]
+Length=240
+Lyric=mo
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0438]
+Length=480
+Lyric=guan
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0439]
+Length=240
+Lyric=zu
+NoteNum=67
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0440]
+Length=240
+Lyric=shui
+NoteNum=66
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0441]
+Length=480
+Lyric=qiang
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0442]
+Length=480
+Lyric=R
+NoteNum=60
+PreUtterance=
+[#0443]
+Length=120
+Lyric=hai
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0444]
+Length=120
+Lyric=ou
+NoteNum=60
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0445]
+Length=480
+Lyric=neng
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0446]
+Length=480
+Lyric=fou
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0447]
+Length=240
+Lyric=fei
+NoteNum=60
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0448]
+Length=480
+Lyric=dao
+NoteNum=60
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0449]
+Length=240
+Lyric=bai
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0450]
+Length=240
+Lyric=mu
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0451]
+Length=480
+Lyric=da
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0452]
+Length=480
+Lyric=ling
+NoteNum=60
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0453]
+Length=480
+Lyric=yi
+NoteNum=60
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0454]
+Length=240
+Lyric=fang
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0455]
+Length=480
+Lyric=tan
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0456]
+Length=480
+Lyric=xian
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0457]
+Length=240
+Lyric=de
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0458]
+Length=480
+Lyric=zhong
+NoteNum=60
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0459]
+Length=240
+Lyric=dian
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0460]
+Length=240
+Lyric=hui
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0461]
+Length=480
+Lyric=bu
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0462]
+Length=480
+Lyric=hui
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0463]
+Length=240
+Lyric=you
+NoteNum=60
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0464]
+Length=240
+Lyric=bao
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0465]
+Length=240
+Lyric=cang
+NoteNum=55
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0466]
+Length=480
+Lyric=da
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0467]
+Length=480
+Lyric=zhang
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0468]
+Length=240
+Lyric=yong
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0469]
+Length=480
+Lyric=jian
+NoteNum=60
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0470]
+Length=240
+Lyric=dui
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0471]
+Length=240
+Lyric=hai
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0472]
+Length=480
+Lyric=shi
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0473]
+Length=480
+Lyric=pai
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0474]
+Length=240
+Lyric=chu
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0475]
+Length=240
+Lyric=gu
+NoteNum=60
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0476]
+Length=240
+Lyric=niang
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0477]
+Length=480
+Lyric=hai
+NoteNum=55
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0478]
+Length=480
+Lyric=zi
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0479]
+Length=480
+Lyric=de
+NoteNum=55
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0480]
+Length=240
+Lyric=xuan
+NoteNum=64
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0481]
+Length=480
+Lyric=ze
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0482]
+Length=480
+Lyric=bie
+NoteNum=60
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0483]
+Length=480
+Lyric=ti
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0484]
+Length=240
+Lyric=gong
+NoteNum=60
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0485]
+Length=240
+Lyric=xuan
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0486]
+Length=240
+Lyric=xiang
+NoteNum=57
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0487]
+Length=480
+Lyric=man
+NoteNum=52
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0488]
+Length=480
+Lyric=man
+NoteNum=55
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0489]
+Length=480
+Lyric=fan
+NoteNum=52
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0490]
+Length=480
+Lyric=cuo
+NoteNum=55
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0491]
+Length=480
+Lyric=sui
+NoteNum=52
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0492]
+Length=240
+Lyric=sui
+NoteNum=55
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0493]
+Length=240
+Lyric=nian
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0494]
+Length=240
+Lyric=R
+NoteNum=60
+PreUtterance=
+[#0495]
+Length=240
+Lyric=zhuan
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0496]
+Length=240
+Lyric=yan
+NoteNum=57
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0497]
+Length=240
+Lyric=jian
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0498]
+Length=480
+Lyric=man
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0499]
+Length=480
+Lyric=man
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0500]
+Length=240
+Lyric=de
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0501]
+Length=480
+Lyric=huo
+NoteNum=65
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0502]
+Length=480
+Lyric=li
+NoteNum=64
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0503]
+Length=480
+Lyric=chong
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0504]
+Length=480
+Lyric=dian
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0505]
+Length=240
+Lyric=jiu
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0506]
+Length=240
+Lyric=zhe
+NoteNum=60
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0507]
+Length=240
+Lyric=yang
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0508]
+Length=360
+Lyric=ji
+NoteNum=60
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0509]
+Length=360
+Lyric=xu
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0510]
+Length=480
+Lyric=ba
+NoteNum=55
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0511]
+Length=480
+Lyric=R
+NoteNum=60
+PreUtterance=
+[#0512]
+Length=120
+Lyric=zhuang
+NoteNum=57
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0513]
+Length=120
+Lyric=zuo
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0514]
+Length=360
+Lyric=xian
+NoteNum=60
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0515]
+Length=360
+Lyric=ding
+NoteNum=60
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0516]
+Length=240
+Lyric=ban
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0517]
+Length=480
+Lyric=hai
+NoteNum=55
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0518]
+Length=480
+Lyric=pa
+NoteNum=57
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0519]
+Length=480
+Lyric=ke
+NoteNum=55
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0520]
+Length=480
+Lyric=shi
+NoteNum=55
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0521]
+Length=240
+Lyric=wo
+NoteNum=55
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0522]
+Length=480
+Lyric=jin
+NoteNum=53
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0523]
+Length=480
+Lyric=tian
+NoteNum=54
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0524]
+Length=240
+Lyric=jiu
+NoteNum=55
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0525]
+Length=240
+Lyric=bu
+NoteNum=53
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0526]
+Length=240
+Lyric=ting
+NoteNum=54
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0527]
+Length=240
+Lyric=hua
+NoteNum=55
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0528]
+Length=16080
+Lyric=R
+NoteNum=60
+PreUtterance=
+[#0529]
+Length=480
+Lyric=you
+NoteNum=55
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0530]
+Length=240
+Lyric=biao
+NoteNum=55
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0531]
+Length=240
+Lyric=zhun
+NoteNum=55
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0532]
+Length=240
+Lyric=da
+NoteNum=55
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0533]
+Length=480
+Lyric=an
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0534]
+Length=480
+Lyric=wei
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0535]
+Length=240
+Lyric=he
+NoteNum=60
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0536]
+Length=240
+Lyric=bu
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0537]
+Length=240
+Lyric=qu
+NoteNum=60
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0538]
+Length=240
+Lyric=nu
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0539]
+Length=240
+Lyric=li
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0540]
+Length=240
+Lyric=zheng
+NoteNum=57
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0541]
+Length=240
+Lyric=ming
+NoteNum=55
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0542]
+Length=480
+Lyric=qian
+NoteNum=55
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0543]
+Length=480
+Lyric=ren
+NoteNum=55
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0544]
+Length=240
+Lyric=shi
+NoteNum=55
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0545]
+Length=240
+Lyric=bei
+NoteNum=54
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0546]
+Length=240
+Lyric=gong
+NoteNum=52
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0547]
+Length=720
+Lyric=ban
+NoteNum=50
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0548]
+Length=720
+Lyric=R
+NoteNum=60
+PreUtterance=
+[#0549]
+Length=240
+Lyric=ming
+NoteNum=52
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0550]
+Length=240
+Lyric=ren
+NoteNum=54
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0551]
+Length=240
+Lyric=tong
+NoteNum=55
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0552]
+Length=480
+Lyric=nian
+NoteNum=57
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0553]
+Length=480
+Lyric=de
+NoteNum=57
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0554]
+Length=240
+Lyric=gu
+NoteNum=57
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0555]
+Length=240
+Lyric=shi
+NoteNum=52
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0556]
+Length=240
+Lyric=R
+NoteNum=60
+PreUtterance=
+[#0557]
+Length=480
+Lyric=bi
+NoteNum=56
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0558]
+Length=240
+Lyric=wo
+NoteNum=56
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0559]
+Length=240
+Lyric=hao
+NoteNum=56
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0560]
+Length=240
+Lyric=bi
+NoteNum=56
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0561]
+Length=240
+Lyric=wo
+NoteNum=56
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0562]
+Length=240
+Lyric=can
+NoteNum=52
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0563]
+Length=240
+Lyric=R
+NoteNum=60
+PreUtterance=
+[#0564]
+Length=240
+Lyric=niu
+NoteNum=54
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0565]
+Length=480
+Lyric=dun
+NoteNum=55
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0566]
+Length=480
+Lyric=xiao
+NoteNum=57
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0567]
+Length=240
+Lyric=shi
+NoteNum=55
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0568]
+Length=240
+Lyric=hou
+NoteNum=54
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0569]
+Length=240
+Lyric=R
+NoteNum=60
+PreUtterance=
+[#0570]
+Length=120
+Lyric=zhen
+NoteNum=54
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0571]
+Length=120
+Lyric=de
+NoteNum=55
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0572]
+Length=240
+Lyric=yu
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0573]
+Length=480
+Lyric=wo
+NoteNum=57
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0574]
+Length=480
+Lyric=wu
+NoteNum=55
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0575]
+Length=480
+Lyric=guan
+NoteNum=57
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0576]
+Length=240
+Lyric=R
+NoteNum=60
+PreUtterance=
+[#0577]
+Length=480
+Lyric=dang
+NoteNum=55
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0578]
+Length=240
+Lyric=ta
+NoteNum=55
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0579]
+Length=240
+Lyric=men
+NoteNum=55
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0580]
+Length=240
+Lyric=yi
+NoteNum=55
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0581]
+Length=480
+Lyric=wei
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0582]
+Length=480
+Lyric=mei
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0583]
+Length=240
+Lyric=ge
+NoteNum=60
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0584]
+Length=240
+Lyric=tian
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0585]
+Length=240
+Lyric=cai
+NoteNum=60
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0586]
+Length=240
+Lyric=dou
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0587]
+Length=240
+Lyric=ceng
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0588]
+Length=240
+Lyric=jing
+NoteNum=57
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0589]
+Length=240
+Lyric=you
+NoteNum=55
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0590]
+Length=720
+Lyric=zhang
+NoteNum=53
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0591]
+Length=480
+Lyric=R
+NoteNum=60
+PreUtterance=
+[#0592]
+Length=240
+Lyric=hen
+NoteNum=53
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0593]
+Length=240
+Lyric=piao
+NoteNum=55
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0594]
+Length=240
+Lyric=liang
+NoteNum=53
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0595]
+Length=480
+Lyric=de
+NoteNum=52
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0596]
+Length=240
+Lyric=cheng
+NoteNum=64
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0597]
+Length=480
+Lyric=ji
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0598]
+Length=480
+Lyric=dan
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0599]
+Length=240
+Lyric=R
+NoteNum=60
+PreUtterance=
+[#0600]
+Length=240
+Lyric=cheng
+NoteNum=60
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0601]
+Length=480
+Lyric=gong
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0602]
+Length=480
+Lyric=lu
+NoteNum=55
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0603]
+Length=480
+Lyric=shang
+NoteNum=52
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0604]
+Length=120
+Lyric=xu
+NoteNum=57
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0605]
+Length=120
+Lyric=yao
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0606]
+Length=240
+Lyric=bu
+NoteNum=60
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0607]
+Length=480
+Lyric=ting
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0608]
+Length=480
+Lyric=de
+NoteNum=60
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0609]
+Length=240
+Lyric=zhui
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0610]
+Length=240
+Lyric=gan
+NoteNum=60
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0611]
+Length=240
+Lyric=R
+NoteNum=60
+PreUtterance=
+[#0612]
+Length=480
+Lyric=qi
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0613]
+Length=480
+Lyric=shi
+NoteNum=55
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0614]
+Length=240
+Lyric=er
+NoteNum=54
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0615]
+Length=240
+Lyric=bian
+NoteNum=55
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0616]
+Length=240
+Lyric=zhan
+NoteNum=57
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0617]
+Length=240
+Lyric=sheng
+NoteNum=55
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0618]
+Length=240
+Lyric=R
+NoteNum=60
+PreUtterance=
+[#0619]
+Length=240
+Lyric=ba
+NoteNum=55
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0620]
+Length=240
+Lyric=shi
+NoteNum=55
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0621]
+Length=240
+Lyric=yi
+NoteNum=55
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0622]
+Length=240
+Lyric=nan
+NoteNum=55
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0623]
+Length=720
+Lyric=R
+NoteNum=60
+PreUtterance=
+[#0624]
+Length=960
+Lyric=hai
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0625]
+Length=480
+Lyric=zhi
+NoteNum=60
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0626]
+Length=480
+Lyric=nen
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0627]
+Length=240
+Lyric=de
+NoteNum=60
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0628]
+Length=480
+Lyric=shi
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0629]
+Length=480
+Lyric=guang
+NoteNum=55
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0630]
+Length=240
+Lyric=R
+NoteNum=60
+PreUtterance=
+[#0631]
+Length=240
+Lyric=wo
+NoteNum=52
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0632]
+Length=240
+Lyric=men
+NoteNum=55
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0633]
+Length=240
+Lyric=R
+NoteNum=60
+PreUtterance=
+[#0634]
+Length=240
+Lyric=zi
+NoteNum=55
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0635]
+Length=240
+Lyric=ji
+NoteNum=55
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0636]
+Length=240
+Lyric=zai
+NoteNum=55
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0637]
+Length=480
+Lyric=xin
+NoteNum=55
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0638]
+Length=240
+Lyric=zhong
+NoteNum=50
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0639]
+Length=480
+Lyric=zao
+NoteNum=57
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0640]
+Length=240
+Lyric=yi
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0641]
+Length=240
+Lyric=zuo
+NoteNum=57
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0642]
+Length=240
+Lyric=cheng
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0643]
+Length=240
+Lyric=bao
+NoteNum=55
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0644]
+Length=480
+Lyric=R
+NoteNum=60
+PreUtterance=
+[#0645]
+Length=120
+Lyric=shen
+NoteNum=52
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0646]
+Length=120
+Lyric=mo
+NoteNum=55
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0647]
+Length=480
+Lyric=gong
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0648]
+Length=480
+Lyric=zhu
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0649]
+Length=480
+Lyric=shi
+NoteNum=60
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0650]
+Length=480
+Lyric=zi
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0651]
+Length=240
+Lyric=ji
+NoteNum=60
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0652]
+Length=480
+Lyric=qi
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0653]
+Length=480
+Lyric=ren
+NoteNum=55
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0654]
+Length=240
+Lyric=dou
+NoteNum=52
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0655]
+Length=240
+Lyric=wang
+NoteNum=52
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0656]
+Length=240
+Lyric=li
+NoteNum=50
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0657]
+Length=960
+Lyric=zhuang
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0658]
+Length=720
+Lyric=R
+NoteNum=60
+PreUtterance=
+[#0659]
+Length=480
+Lyric=da
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0660]
+Length=240
+Lyric=jia
+NoteNum=60
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0661]
+Length=240
+Lyric=hen
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0662]
+Length=240
+Lyric=shan
+NoteNum=60
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0663]
+Length=480
+Lyric=liang
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0664]
+Length=480
+Lyric=R
+NoteNum=60
+PreUtterance=
+[#0665]
+Length=960
+Lyric=jiang
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0666]
+Length=480
+Lyric=cong
+NoteNum=60
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0667]
+Length=480
+Lyric=ming
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0668]
+Length=240
+Lyric=dang
+NoteNum=60
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0669]
+Length=480
+Lyric=cheng
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0670]
+Length=480
+Lyric=qiang
+NoteNum=55
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0671]
+Length=240
+Lyric=R
+NoteNum=60
+PreUtterance=
+[#0672]
+Length=240
+Lyric=tao
+NoteNum=52
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0673]
+Length=240
+Lyric=yi
+NoteNum=55
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0674]
+Length=480
+Lyric=jian
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0675]
+Length=240
+Lyric=ming
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0676]
+Length=240
+Lyric=wei
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0677]
+Length=480
+Lyric=cheng
+NoteNum=64
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0678]
+Length=480
+Lyric=shu
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0679]
+Length=240
+Lyric=de
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0680]
+Length=480
+Lyric=yi
+NoteNum=57
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0681]
+Length=720
+Lyric=chang
+NoteNum=56
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0682]
+Length=480
+Lyric=R
+NoteNum=60
+PreUtterance=
+[#0683]
+Length=480
+Lyric=bu
+NoteNum=52
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0684]
+Length=480
+Lyric=fan
+NoteNum=54
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0685]
+Length=480
+Lyric=kang
+NoteNum=55
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0686]
+Length=240
+Lyric=R
+NoteNum=60
+PreUtterance=
+[#0687]
+Length=480
+Lyric=bu
+NoteNum=52
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0688]
+Length=240
+Lyric=yao
+NoteNum=52
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0689]
+Length=480
+Lyric=jue
+NoteNum=54
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0690]
+Length=480
+Lyric=qiang
+NoteNum=55
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0691]
+Length=240
+Lyric=fou
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0692]
+Length=240
+Lyric=ze
+NoteNum=60
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0693]
+Length=1440
+Lyric=jiu
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0694]
+Length=480
+Lyric=R
+NoteNum=60
+PreUtterance=
+[#0695]
+Length=240
+Lyric=jiao
+NoteNum=64
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0696]
+Length=480
+Lyric=wo
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0697]
+Length=480
+Lyric=jia
+NoteNum=64
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0698]
+Length=720
+Lyric=chang
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0699]
+Length=3120
+Lyric=R
+NoteNum=60
+PreUtterance=
+[#0700]
+Length=240
+Lyric=hai
+NoteNum=55
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0701]
+Length=240
+Lyric=na
+NoteNum=57
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0702]
+Length=240
+Lyric=bian
+NoteNum=55
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0703]
+Length=480
+Lyric=zhu
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0704]
+Length=480
+Lyric=zhe
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0705]
+Length=240
+Lyric=jing
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0706]
+Length=480
+Lyric=ling
+NoteNum=60
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0707]
+Length=240
+Lyric=zu
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0708]
+Length=240
+Lyric=hai
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0709]
+Length=480
+Lyric=shi
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0710]
+Length=480
+Lyric=da
+NoteNum=60
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0711]
+Length=480
+Lyric=hui
+NoteNum=60
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0712]
+Length=240
+Lyric=lang
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0713]
+Length=480
+Lyric=zhang
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0714]
+Length=480
+Lyric=chao
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0715]
+Length=240
+Lyric=shi
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0716]
+Length=480
+Lyric=bu
+NoteNum=60
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0717]
+Length=240
+Lyric=shi
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0718]
+Length=240
+Lyric=shen
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0719]
+Length=480
+Lyric=xian
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0720]
+Length=480
+Lyric=tui
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0721]
+Length=240
+Lyric=bo
+NoteNum=60
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0722]
+Length=240
+Lyric=zhu
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0723]
+Length=240
+Lyric=lang
+NoteNum=55
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0724]
+Length=480
+Lyric=neng
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0725]
+Length=480
+Lyric=fou
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0726]
+Length=240
+Lyric=yong
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0727]
+Length=480
+Lyric=yu
+NoteNum=60
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0728]
+Length=240
+Lyric=wang
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0729]
+Length=240
+Lyric=lao
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0730]
+Length=480
+Lyric=yi
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0731]
+Length=240
+Lyric=zhi
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0732]
+Length=240
+Lyric=R
+NoteNum=60
+PreUtterance=
+[#0733]
+Length=240
+Lyric=li
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0734]
+Length=240
+Lyric=yu
+NoteNum=60
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0735]
+Length=240
+Lyric=wang
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0736]
+Length=480
+Lyric=hai
+NoteNum=55
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0737]
+Length=480
+Lyric=zi
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0738]
+Length=480
+Lyric=de
+NoteNum=55
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0739]
+Length=240
+Lyric=mo
+NoteNum=64
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0740]
+Length=480
+Lyric=fa
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0741]
+Length=480
+Lyric=yong
+NoteNum=60
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0742]
+Length=480
+Lyric=yuan
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0743]
+Length=240
+Lyric=zai
+NoteNum=60
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0744]
+Length=240
+Lyric=fa
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0745]
+Length=240
+Lyric=guang
+NoteNum=57
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0746]
+Length=480
+Lyric=man
+NoteNum=52
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0747]
+Length=480
+Lyric=man
+NoteNum=55
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0748]
+Length=480
+Lyric=san
+NoteNum=52
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0749]
+Length=480
+Lyric=qu
+NoteNum=55
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0750]
+Length=480
+Lyric=de
+NoteNum=52
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0751]
+Length=240
+Lyric=tian
+NoteNum=55
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0752]
+Length=240
+Lyric=zhen
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0753]
+Length=240
+Lyric=R
+NoteNum=60
+PreUtterance=
+[#0754]
+Length=240
+Lyric=liu
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0755]
+Length=240
+Lyric=xia
+NoteNum=57
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0756]
+Length=240
+Lyric=lai
+NoteNum=55
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0757]
+Length=480
+Lyric=de
+NoteNum=50
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0758]
+Length=480
+Lyric=man
+NoteNum=55
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0759]
+Length=480
+Lyric=man
+NoteNum=50
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0760]
+Length=240
+Lyric=xi
+NoteNum=55
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0761]
+Length=240
+Lyric=wang
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0762]
+Length=240
+Lyric=R
+NoteNum=60
+PreUtterance=
+[#0763]
+Length=240
+Lyric=bu
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0764]
+Length=240
+Lyric=ban
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0765]
+Length=240
+Lyric=yan
+NoteNum=60
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0766]
+Length=240
+Lyric=ren
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0767]
+Length=240
+Lyric=he
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0768]
+Length=240
+Lyric=bang
+NoteNum=57
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0769]
+Length=240
+Lyric=yang
+NoteNum=55
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0770]
+Length=480
+Lyric=R
+NoteNum=60
+PreUtterance=
+[#0771]
+Length=240
+Lyric=hao
+NoteNum=60
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0772]
+Length=240
+Lyric=qi
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0773]
+Length=480
+Lyric=rang
+NoteNum=55
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0774]
+Length=240
+Lyric=R
+NoteNum=60
+PreUtterance=
+[#0775]
+Length=480
+Lyric=wo
+NoteNum=60
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0776]
+Length=240
+Lyric=men
+NoteNum=60
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0777]
+Length=480
+Lyric=die
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0778]
+Length=480
+Lyric=die
+NoteNum=55
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0779]
+Length=240
+Lyric=zhuang
+NoteNum=52
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0780]
+Length=480
+Lyric=zhuang
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0781]
+Length=240
+Lyric=zai
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0782]
+Length=240
+Lyric=zi
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0783]
+Length=240
+Lyric=dian
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0784]
+Length=480
+Lyric=zhong
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0785]
+Length=240
+Lyric=zhe
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0786]
+Length=480
+Lyric=jiao
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0787]
+Length=240
+Lyric=zuo
+NoteNum=67
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0788]
+Length=240
+Lyric=cheng
+NoteNum=66
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0789]
+Length=480
+Lyric=chang
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0790]
+Length=480
+Lyric=R
+NoteNum=60
+PreUtterance=
+[#0791]
+Length=120
+Lyric=hai
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0792]
+Length=120
+Lyric=ou
+NoteNum=60
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0793]
+Length=480
+Lyric=neng
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0794]
+Length=480
+Lyric=fou
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0795]
+Length=240
+Lyric=fei
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0796]
+Length=480
+Lyric=dao
+NoteNum=60
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0797]
+Length=240
+Lyric=bai
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0798]
+Length=240
+Lyric=mu
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0799]
+Length=480
+Lyric=da
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0800]
+Length=480
+Lyric=ling
+NoteNum=60
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0801]
+Length=480
+Lyric=yi
+NoteNum=60
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0802]
+Length=240
+Lyric=fang
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0803]
+Length=480
+Lyric=tan
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0804]
+Length=480
+Lyric=xian
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0805]
+Length=240
+Lyric=de
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0806]
+Length=480
+Lyric=zhong
+NoteNum=60
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0807]
+Length=240
+Lyric=dian
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0808]
+Length=240
+Lyric=hui
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0809]
+Length=480
+Lyric=bu
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0810]
+Length=480
+Lyric=hui
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0811]
+Length=240
+Lyric=you
+NoteNum=60
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0812]
+Length=240
+Lyric=bao
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0813]
+Length=240
+Lyric=cang
+NoteNum=55
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0814]
+Length=480
+Lyric=da
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0815]
+Length=480
+Lyric=zhang
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0816]
+Length=240
+Lyric=yong
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0817]
+Length=480
+Lyric=jian
+NoteNum=60
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0818]
+Length=240
+Lyric=dui
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0819]
+Length=240
+Lyric=hai
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0820]
+Length=480
+Lyric=shi
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0821]
+Length=480
+Lyric=pai
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0822]
+Length=240
+Lyric=chu
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0823]
+Length=240
+Lyric=gu
+NoteNum=60
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0824]
+Length=240
+Lyric=niang
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0825]
+Length=480
+Lyric=hai
+NoteNum=55
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0826]
+Length=480
+Lyric=zi
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0827]
+Length=480
+Lyric=de
+NoteNum=55
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0828]
+Length=240
+Lyric=xiang
+NoteNum=64
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0829]
+Length=480
+Lyric=wang
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0830]
+Length=480
+Lyric=bie
+NoteNum=60
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0831]
+Length=480
+Lyric=zi
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0832]
+Length=240
+Lyric=zuo
+NoteNum=60
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0833]
+Length=240
+Lyric=zhu
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0834]
+Length=240
+Lyric=zhang
+NoteNum=57
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0835]
+Length=480
+Lyric=man
+NoteNum=52
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0836]
+Length=480
+Lyric=man
+NoteNum=55
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0837]
+Length=480
+Lyric=shi
+NoteNum=52
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0838]
+Length=480
+Lyric=bai
+NoteNum=55
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0839]
+Length=480
+Lyric=hou
+NoteNum=52
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0840]
+Length=240
+Lyric=gai
+NoteNum=55
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0841]
+Length=240
+Lyric=bian
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0842]
+Length=240
+Lyric=R
+NoteNum=60
+PreUtterance=
+[#0843]
+Length=240
+Lyric=huan
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0844]
+Length=240
+Lyric=hui
+NoteNum=57
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0845]
+Length=240
+Lyric=lai
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0846]
+Length=480
+Lyric=man
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0847]
+Length=480
+Lyric=man
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0848]
+Length=240
+Lyric=de
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0849]
+Length=480
+Lyric=yuan
+NoteNum=65
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0850]
+Length=480
+Lyric=wang
+NoteNum=64
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0851]
+Length=480
+Lyric=shi
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0852]
+Length=480
+Lyric=xian
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0853]
+Length=240
+Lyric=jiu
+NoteNum=62
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0854]
+Length=240
+Lyric=zhe
+NoteNum=60
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0855]
+Length=240
+Lyric=yang
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0856]
+Length=240
+Lyric=qi
+NoteNum=60
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0857]
+Length=480
+Lyric=dai
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0858]
+Length=480
+Lyric=ba
+NoteNum=55
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0859]
+Length=480
+Lyric=R
+NoteNum=60
+PreUtterance=
+[#0860]
+Length=120
+Lyric=deng
+NoteNum=57
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0861]
+Length=120
+Lyric=dao
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0862]
+Length=240
+Lyric=ling
+NoteNum=60
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0863]
+Length=240
+Lyric=gan
+NoteNum=60
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0864]
+Length=480
+Lyric=bian
+NoteNum=59
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0865]
+Length=480
+Lyric=zui
+NoteNum=55
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0866]
+Length=480
+Lyric=da
+NoteNum=57
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0867]
+Length=480
+Lyric=zai
+NoteNum=55
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0868]
+Length=480
+Lyric=wo
+NoteNum=55
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0869]
+Length=240
+Lyric=de
+NoteNum=55
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0870]
+Length=480
+Lyric=shi
+NoteNum=53
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0871]
+Length=480
+Lyric=jie
+NoteNum=54
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0872]
+Length=240
+Lyric=jiu
+NoteNum=55
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0873]
+Length=240
+Lyric=bu
+NoteNum=53
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0874]
+Length=240
+Lyric=ting
+NoteNum=54
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0875]
+Length=240
+Lyric=hua
+NoteNum=55
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0876]
+Length=1200
+Lyric=R
+NoteNum=60
+PreUtterance=
+[#0877]
+Length=240
+Lyric=hei
+NoteNum=63
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0878]
+Length=720
+Lyric=R
+NoteNum=60
+PreUtterance=
+[#0879]
+Length=240
+Lyric=hei
+NoteNum=63
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0880]
+Length=720
+Lyric=R
+NoteNum=60
+PreUtterance=
+[#0881]
+Length=240
+Lyric=hei
+NoteNum=63
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0882]
+Length=720
+Lyric=R
+NoteNum=60
+PreUtterance=
+[#0883]
+Length=240
+Lyric=hei
+NoteNum=63
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0884]
+Length=720
+Lyric=R
+NoteNum=60
+PreUtterance=
+[#0885]
+Length=240
+Lyric=hei
+NoteNum=63
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0886]
+Length=720
+Lyric=R
+NoteNum=60
+PreUtterance=
+[#0887]
+Length=240
+Lyric=hei
+NoteNum=63
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0888]
+Length=720
+Lyric=R
+NoteNum=60
+PreUtterance=
+[#0889]
+Length=240
+Lyric=hei
+NoteNum=63
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0890]
+Length=720
+Lyric=R
+NoteNum=60
+PreUtterance=
+[#0891]
+Length=240
+Lyric=hei
+NoteNum=63
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0892]
+Length=720
+Lyric=R
+NoteNum=60
+PreUtterance=
+[#0893]
+Length=240
+Lyric=hei
+NoteNum=63
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0894]
+Length=720
+Lyric=R
+NoteNum=60
+PreUtterance=
+[#0895]
+Length=240
+Lyric=hei
+NoteNum=63
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0896]
+Length=720
+Lyric=R
+NoteNum=60
+PreUtterance=
+[#0897]
+Length=240
+Lyric=hei
+NoteNum=63
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0898]
+Length=720
+Lyric=R
+NoteNum=60
+PreUtterance=
+[#0899]
+Length=240
+Lyric=hei
+NoteNum=63
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0900]
+Length=720
+Lyric=R
+NoteNum=60
+PreUtterance=
+[#0901]
+Length=240
+Lyric=hei
+NoteNum=63
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#0902]
+Length=720
+Lyric=R
+NoteNum=60
+PreUtterance=
+[#0903]
+Length=240
+Lyric=hei
+NoteNum=63
+PreUtterance =
+Intensity = 100
+Modulation = 0
+[#TRACKEND]
