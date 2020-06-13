@@ -22,3 +22,4 @@ oxygen-dioxide歌声合成工程配布，提供ust、nn、sk、dv、带歌词mid
 | 是夜               | litterzy | 冥凰       | [bilibili](https://www.bilibili.com/video/av8072755)  | [下载](https://gitee.com/oxygendioxide/utau-projects/tree/master/%E6%98%AF%E5%A4%9C)                                              |
 | 指尖所描绘之物      | AnnyJuly | AnnyJuly | [bilibili](https://www.bilibili.com/video/av54764560) | [下载](https://gitee.com/oxygendioxide/utau-projects/tree/master/%E6%8C%87%E5%B0%96%E6%89%80%E6%8F%8F%E7%BB%98%E4%B9%8B%E7%89%A9) |
 | 试翼               | 格里特    | 秋の墨_  |  [bilibili](https://www.bilibili.com/video/BV1ZK4y1b7Vk) | [下载](https://gitee.com/oxygendioxide/utau-projects/tree/master/%E8%AF%95%E7%BF%BC)|
+| 邪恶的漆黑 | Onai P | Onai P | [bilibili](https://www.bilibili.com/video/BV1np4y1D7ws) | [下载](https://gitee.com/oxygendioxide/utau-projects/tree/master/%E9%82%AA%E6%81%B6%E7%9A%84%E6%BC%86%E9%BB%91)
