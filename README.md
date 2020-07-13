@@ -25,3 +25,4 @@ oxygen-dioxide歌声合成工程配布，提供ust、nn、sk、dv、带歌词mid
 | 邪恶的漆黑 | Onai P | Onai P | [bilibili](https://www.bilibili.com/video/BV1np4y1D7ws) | [下载](https://gitee.com/oxygendioxide/utau-projects/tree/master/%E9%82%AA%E6%81%B6%E7%9A%84%E6%BC%86%E9%BB%91)
 | 奋楫 | 格里特/髅髅 | 冥凰 | [bilibili](https://www.bilibili.com/video/BV1xJ411x754) | [下载](https://gitee.com/oxygendioxide/utau-projects/tree/master/%E5%A5%8B%E6%A5%AB)
 | R.I.L | SinghP | SinghP | [bilibili](https://www.bilibili.com/video/BV1EA411e7mL) | [下载](https://gitee.com/oxygendioxide/utau-projects/tree/master/RIL)
+| 不揽清风不望月 | 纯白 | 初繁言 | [bilibili](https://www.bilibili.com/video/BV1Fp4y1S7vd) | [下载](https://gitee.com/oxygendioxide/utau-projects/tree/master/%E4%B8%8D%E6%8F%BD%E6%B8%85%E9%A3%8E%E4%B8%8D%E6%9C%9B%E6%9C%88)
