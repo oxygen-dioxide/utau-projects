@@ -1,4 +1,5 @@
 # 少女∞神明
+下载链接（右键单击，选择“将链接另存为”）：[mid](https://gitee.com/oxygendioxide/utau-projects/raw/master/%E5%B0%91%E5%A5%B3%E7%A5%9E%E6%98%8E/%E5%B0%91%E5%A5%B3%E7%A5%9E%E6%98%8E.mid) [ust](https://gitee.com/oxygendioxide/utau-projects/raw/master/%E5%B0%91%E5%A5%B3%E7%A5%9E%E6%98%8E/%E5%B0%91%E5%A5%B3%E7%A5%9E%E6%98%8E.ust) [nn](https://gitee.com/oxygendioxide/utau-projects/raw/master/%E5%B0%91%E5%A5%B3%E7%A5%9E%E6%98%8E/%E5%B0%91%E5%A5%B3%E7%A5%9E%E6%98%8E.nn) [dv](https://gitee.com/oxygendioxide/utau-projects/raw/master/%E5%B0%91%E5%A5%B3%E7%A5%9E%E6%98%8E/%E5%B0%91%E5%A5%B3%E7%A5%9E%E6%98%8E.dv)
 本家：[bilibili](https://www.bilibili.com/video/BV1Ch411o7MZ?from=search&seid=5767116243735228681)  [网易云音乐](https://music.163.com/#/song?id=1445519588)
 
 ## Staff
