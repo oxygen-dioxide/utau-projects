@@ -1,4 +1,10 @@
 # 盛夏
+下载链接（右键单击，选择“将链接另存为”）：
+[mid](https://gitee.com/oxygendioxide/utau-projects/raw/master/%E7%9B%9B%E5%A4%8F/%E7%9B%9B%E5%A4%8F.mid) 
+[ust](https://gitee.com/oxygendioxide/utau-projects/raw/master/%E7%9B%9B%E5%A4%8F/%E7%9B%9B%E5%A4%8F.ust) 
+[nn](https://gitee.com/oxygendioxide/utau-projects/raw/master/%E7%9B%9B%E5%A4%8F/%E7%9B%9B%E5%A4%8F.nn) 
+[dv](https://gitee.com/oxygendioxide/utau-projects/raw/master/%E7%9B%9B%E5%A4%8F/%E7%9B%9B%E5%A4%8F.dv)
+
 本家：[bilibili](https://www.bilibili.com/video/av201773213)
 
 ## staff
