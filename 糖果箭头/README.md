@@ -3,6 +3,14 @@
 
 本家：[bilibili](https://www.bilibili.com/video/av584586390)
 
+下载链接：（右键单击，选择“将链接另存为”）：
+[mid](https://gitee.com/oxygendioxide/utau-projects/raw/master/%E7%B3%96%E6%9E%9C%E7%AE%AD%E5%A4%B4/%E7%B3%96%E6%9E%9C%E7%AE%AD%E5%A4%B4.mid)
+[ust](https://gitee.com/oxygendioxide/utau-projects/raw/master/%E7%B3%96%E6%9E%9C%E7%AE%AD%E5%A4%B4/%E7%B3%96%E6%9E%9C%E7%AE%AD%E5%A4%B4.ust)
+[nn](https://gitee.com/oxygendioxide/utau-projects/raw/master/%E7%B3%96%E6%9E%9C%E7%AE%AD%E5%A4%B4/%E7%B3%96%E6%9E%9C%E7%AE%AD%E5%A4%B4.nn)
+[dv](https://gitee.com/oxygendioxide/utau-projects/raw/master/%E7%B3%96%E6%9E%9C%E7%AE%AD%E5%A4%B4/%E7%B3%96%E6%9E%9C%E7%AE%AD%E5%A4%B4.dv)
+[musicxml](https://gitee.com/oxygendioxide/utau-projects/raw/master/%E7%B3%96%E6%9E%9C%E7%AE%AD%E5%A4%B4/%E7%B3%96%E6%9E%9C%E7%AE%AD%E5%A4%B4.musicxml)
+[lrc歌词](https://gitee.com/oxygendioxide/utau-projects/raw/master/%E7%B3%96%E6%9E%9C%E7%AE%AD%E5%A4%B4/%E7%B3%96%E6%9E%9C%E7%AE%AD%E5%A4%B4.lrc)
+
 ## STAFF
 
 作曲、编曲：丨闹闹丶丨

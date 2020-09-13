@@ -28,3 +28,4 @@ oxygen-dioxide歌声合成工程配布，提供ust、nn、sk、dv、带歌词mid
 | 不揽清风不望月 | 纯白 | 初繁言 | [bilibili](https://www.bilibili.com/video/BV1Fp4y1S7vd) | [下载](https://gitee.com/oxygendioxide/utau-projects/tree/master/%E4%B8%8D%E6%8F%BD%E6%B8%85%E9%A3%8E%E4%B8%8D%E6%9C%9B%E6%9C%88)
 | 少女∞神明 | 芮晴 | 芮晴、欢明境 | [bilibili](https://www.bilibili.com/video/BV1Ch411o7MZ) | [下载](https://gitee.com/oxygendioxide/utau-projects/tree/master/%E5%B0%91%E5%A5%B3%E7%A5%9E%E6%98%8E)
 | 盛夏 | 冰零-Mahiru | 萧翔泽/冰零-Mahiru | [bilibili](https://www.bilibili.com/video/av201773213) | [下载](https://gitee.com/oxygendioxide/utau-projects/tree/master/%E7%9B%9B%E5%A4%8F) |
+| 糖果箭头 | 闹闹丶 | 还不快向菜J势力低头 | [bilibili](https://www.bilibili.com/video/av584586390) | [下载](https://gitee.com/oxygendioxide/utau-projects/tree/master/%E7%B3%96%E6%9E%9C%E7%AE%AD%E5%A4%B4) |
