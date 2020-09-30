@@ -9,6 +9,7 @@ oxygen-dioxide歌声合成工程配布，提供ust、nn、sk、dv、带歌词mid
 使用这里的工程制作的作品允许投稿至各大平台，但必须注明工程来源：oxygen dioxide
 
 #### 工程列表
+按Ctrl-F可在本页面查找
 | 名称 | 作曲 | 作词 | 本家链接 | 下载 |
 |-|-|-|-|-|
 | boy next door | 放假君 | 放假君 | [bilibili](https://www.bilibili.com/video/av26327977) | [下载](https://gitee.com/oxygendioxide/utau-projects/tree/master/boy%20next%20door) |
