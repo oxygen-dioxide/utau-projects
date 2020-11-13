@@ -31,3 +31,4 @@ oxygen-dioxide歌声合成工程配布，提供ust、nn、sk、dv、带歌词mid
 | 盛夏 | 冰零-Mahiru | 萧翔泽/冰零-Mahiru | [bilibili](https://www.bilibili.com/video/av201773213) | [下载](./%E7%9B%9B%E5%A4%8F) |
 | 糖果箭头 | 闹闹丶 | 还不快向菜J势力低头 | [bilibili](https://www.bilibili.com/video/av584586390) | [下载](./%E7%B3%96%E6%9E%9C%E7%AE%AD%E5%A4%B4) |
 | 竹语 | 闹闹丶 | 果汁凉菜 | [bilibili](https://www.bilibili.com/video/av969746070) | [下载](./%E7%AB%B9%E8%AF%AD) |
+| 期待 | 张卫 | 张卫 | [bilibili](https://www.bilibili.com/video/av457733605) | [下载](./%E6%9C%9F%E5%BE%85) |
