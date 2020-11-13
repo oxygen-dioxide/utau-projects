@@ -6,7 +6,8 @@
 [ust](https://gitee.com/oxygendioxide/utau-projects/raw/master/%E6%9C%9F%E5%BE%85/%E6%9C%9F%E5%BE%85.ust)¡¢
 [nn](https://gitee.com/oxygendioxide/utau-projects/raw/master/%E6%9C%9F%E5%BE%85/%E6%9C%9F%E5%BE%85.nn)¡¢
 [dv](https://gitee.com/oxygendioxide/utau-projects/raw/master/%E6%9C%9F%E5%BE%85/%E6%9C%9F%E5%BE%85.dv)¡¢
-[musicxml](https://gitee.com/oxygendioxide/utau-projects/raw/master/%E6%9C%9F%E5%BE%85/%E6%9C%9F%E5%BE%85.musicxml)
+[musicxml](https://gitee.com/oxygendioxide/utau-projects/raw/master/%E6%9C%9F%E5%BE%85/%E6%9C%9F%E5%BE%85.musicxml)¡¢
+[lrc¸è´Ê](https://gitee.com/oxygendioxide/utau-projects/raw/master/%E6%9C%9F%E5%BE%85/%E6%9C%9F%E5%BE%85.lrc)
 ## STAFF
 ×÷Çú¡¢×÷´Ê¡¢±àÇú£ºÕÅÎÀ
 
