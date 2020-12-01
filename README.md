@@ -1,7 +1,9 @@
 # utau-projects
 
+[Github](https://github.com/oxygen-dioxide/utau-projects) | [Gitee](https://gitee.com/oxygendioxide/utau-projects) | [Bitbucket](https://bitbucket.org/oxygendioxide/utau-projects/)
+
 #### 介绍
-oxygen-dioxide歌声合成工程配布，提供ust、nn、sk、dv、带歌词mid、lrc文件
+歌声合成工程配布，提供ust、nn、sk、dv、带歌词mid、lrc文件
 
 #### 使用规约
 允许二次配布，或转换为其他乐谱格式二次配布，但必须提供本页面链接（https://gitee.com/oxygendioxide/utau-projects）
