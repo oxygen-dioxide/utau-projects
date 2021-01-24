@@ -6,6 +6,7 @@
 [ust](https://gitee.com/oxygendioxide/utau-projects/raw/master/%E7%AB%B9%E8%AF%AD/%E7%AB%B9%E8%AF%AD.ust)、
 [nn](https://gitee.com/oxygendioxide/utau-projects/raw/master/%E7%AB%B9%E8%AF%AD/%E7%AB%B9%E8%AF%AD.nn)、
 [dv](https://gitee.com/oxygendioxide/utau-projects/raw/master/%E7%AB%B9%E8%AF%AD/%E7%AB%B9%E8%AF%AD.dv)、
+[svip](https://gitee.com/oxygendioxide/utau-projects/raw/master/%E7%AB%B9%E8%AF%AD/%E7%AB%B9%E8%AF%AD.svip)、
 [musicxml](https://gitee.com/oxygendioxide/utau-projects/raw/master/%E7%AB%B9%E8%AF%AD/%E7%AB%B9%E8%AF%AD.musicxml)、
 [lrc歌词](https://gitee.com/oxygendioxide/utau-projects/raw/master/%E7%AB%B9%E8%AF%AD/%E7%AB%B9%E8%AF%AD.lrc)
 ## STAFF

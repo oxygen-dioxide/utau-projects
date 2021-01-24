@@ -1,43 +1,44 @@
-# ÆÚ´ı
-±¾¼Ò£º[bilibili](https://www.bilibili.com/video/av457733605)
+# æœŸå¾…
+æœ¬å®¶ï¼š[bilibili](https://www.bilibili.com/video/av457733605)
 
-ÏÂÔØÁ´½Ó£º£¨ÓÒ¼üµ¥»÷£¬Ñ¡Ôñ¡°½«Á´½ÓÁí´æÎª¡±£©£º
-[mid](https://gitee.com/oxygendioxide/utau-projects/raw/master/%E6%9C%9F%E5%BE%85/%E6%9C%9F%E5%BE%85.mid)¡¢
-[ust](https://gitee.com/oxygendioxide/utau-projects/raw/master/%E6%9C%9F%E5%BE%85/%E6%9C%9F%E5%BE%85.ust)¡¢
-[nn](https://gitee.com/oxygendioxide/utau-projects/raw/master/%E6%9C%9F%E5%BE%85/%E6%9C%9F%E5%BE%85.nn)¡¢
-[dv](https://gitee.com/oxygendioxide/utau-projects/raw/master/%E6%9C%9F%E5%BE%85/%E6%9C%9F%E5%BE%85.dv)¡¢
-[musicxml](https://gitee.com/oxygendioxide/utau-projects/raw/master/%E6%9C%9F%E5%BE%85/%E6%9C%9F%E5%BE%85.musicxml)¡¢
-[lrc¸è´Ê](https://gitee.com/oxygendioxide/utau-projects/raw/master/%E6%9C%9F%E5%BE%85/%E6%9C%9F%E5%BE%85.lrc)
+ä¸‹è½½é“¾æ¥ï¼šï¼ˆå³é”®å•å‡»ï¼Œé€‰æ‹©â€œå°†é“¾æ¥å¦å­˜ä¸ºâ€ï¼‰ï¼š
+[mid](https://gitee.com/oxygendioxide/utau-projects/raw/master/%E6%9C%9F%E5%BE%85/%E6%9C%9F%E5%BE%85.mid)ã€
+[ust](https://gitee.com/oxygendioxide/utau-projects/raw/master/%E6%9C%9F%E5%BE%85/%E6%9C%9F%E5%BE%85.ust)ã€
+[nn](https://gitee.com/oxygendioxide/utau-projects/raw/master/%E6%9C%9F%E5%BE%85/%E6%9C%9F%E5%BE%85.nn)ã€
+[dv](https://gitee.com/oxygendioxide/utau-projects/raw/master/%E6%9C%9F%E5%BE%85/%E6%9C%9F%E5%BE%85.dv)ã€
+[svip](https://gitee.com/oxygendioxide/utau-projects/raw/master/%E6%9C%9F%E5%BE%85/%E6%9C%9F%E5%BE%85.svip)ã€
+[musicxml](https://gitee.com/oxygendioxide/utau-projects/raw/master/%E6%9C%9F%E5%BE%85/%E6%9C%9F%E5%BE%85.musicxml)ã€
+[lrcæ­Œè¯](https://gitee.com/oxygendioxide/utau-projects/raw/master/%E6%9C%9F%E5%BE%85/%E6%9C%9F%E5%BE%85.lrc)
 ## STAFF
-×÷Çú¡¢×÷´Ê¡¢±àÇú£ºÕÅÎÀ
+ä½œæ›²ã€ä½œè¯ã€ç¼–æ›²ï¼šå¼ å«
 
-## ¸è´Ê
+## æ­Œè¯
 ```
-ÆÚ´ıÄ³ÌìµÄÎÒÃÇ ÔÙÒ»´ÎÏà¼û
-»ØÒä»¹ÁôÔÚÄÇ¸öÓêÌì
-¶ÔÄãÎŞ¾¡µÄË¼Äî ÄãÊÇ·ñÌı¼û
-ËäÈ»ÎÒÃÇÏà¾ÛÄÇÃ´Ò£Ô¶
+æœŸå¾…æŸå¤©çš„æˆ‘ä»¬ å†ä¸€æ¬¡ç›¸è§
+å›å¿†è¿˜ç•™åœ¨é‚£ä¸ªé›¨å¤©
+å¯¹ä½ æ— å°½çš„æ€å¿µ ä½ æ˜¯å¦å¬è§
+è™½ç„¶æˆ‘ä»¬ç›¸èšé‚£ä¹ˆé¥è¿œ
 
-ºÃÏëÄãÔÚÎÒÃÎÀï ¶à´ôÒ»Ãë
-Íü²»ÁËÄãµÄÉùÒô ÄãµÄĞ¦
-µÈ´ı×Ü»áÓĞÊ§Âä Ò²ÓĞÃÀºÃ
-ÎÒÏëÄãÔÚÃ¿Ìì Äã¿ÉÖªµÀ
+å¥½æƒ³ä½ åœ¨æˆ‘æ¢¦é‡Œ å¤šå‘†ä¸€ç§’
+å¿˜ä¸äº†ä½ çš„å£°éŸ³ ä½ çš„ç¬‘
+ç­‰å¾…æ€»ä¼šæœ‰å¤±è½ ä¹Ÿæœ‰ç¾å¥½
+æˆ‘æƒ³ä½ åœ¨æ¯å¤© ä½ å¯çŸ¥é“
 
-Çà´ºÇÄÈ»µØÀëÈ¥ Ê±¹âÒÑÁ÷×ª
-ÆäÊµÎÒÃÇÔçÒÑ ÓĞÁË¸Ä±ä
-¼¸¸ö´ºÏÄºÍÇï¶¬ ÒÑ¹ı¶àÉÙÄê
-ÄãÔÚÎÒµÄĞÄÖĞ ÃÀÀöÒÀÈ»
+é’æ˜¥æ‚„ç„¶åœ°ç¦»å» æ—¶å…‰å·²æµè½¬
+å…¶å®æˆ‘ä»¬æ—©å·² æœ‰äº†æ”¹å˜
+å‡ ä¸ªæ˜¥å¤å’Œç§‹å†¬ å·²è¿‡å¤šå°‘å¹´
+ä½ åœ¨æˆ‘çš„å¿ƒä¸­ ç¾ä¸½ä¾ç„¶
 
-ºÃÏëÄãÔÚÎÒÃÎÀï ¶à´ôÒ»Ãë
-Íü²»ÁËÄãµÄÉùÒô ÄãµÄĞ¦
-µÈ´ı×Ü»áÓĞÊ§Âä Ò²ÓĞÃÀºÃ
-ÎÒÏëÄãÔÚÃ¿Ìì Äã¿ÉÖªµÀ
+å¥½æƒ³ä½ åœ¨æˆ‘æ¢¦é‡Œ å¤šå‘†ä¸€ç§’
+å¿˜ä¸äº†ä½ çš„å£°éŸ³ ä½ çš„ç¬‘
+ç­‰å¾…æ€»ä¼šæœ‰å¤±è½ ä¹Ÿæœ‰ç¾å¥½
+æˆ‘æƒ³ä½ åœ¨æ¯å¤© ä½ å¯çŸ¥é“
 
-Çà´ºÇÄÈ»µØÀëÈ¥ Ê±¹âÒÑÁ÷×ª
-ÆäÊµÎÒÃÇÔçÒÑ ÓĞÁË¸Ä±ä
-¼¸¸ö´ºÏÄºÍÇï¶¬ ÒÑ¹ı¶àÉÙÄê
-ÄãÔÚÎÒµÄĞÄÖĞ ÃÀÀöÒÀÈ»
-ÎÒÕæµÄºÃÏëÔÙ¼ûÄãÒ»Ãæ
+é’æ˜¥æ‚„ç„¶åœ°ç¦»å» æ—¶å…‰å·²æµè½¬
+å…¶å®æˆ‘ä»¬æ—©å·² æœ‰äº†æ”¹å˜
+å‡ ä¸ªæ˜¥å¤å’Œç§‹å†¬ å·²è¿‡å¤šå°‘å¹´
+ä½ åœ¨æˆ‘çš„å¿ƒä¸­ ç¾ä¸½ä¾ç„¶
+æˆ‘çœŸçš„å¥½æƒ³å†è§ä½ ä¸€é¢
 ```
-## ÎåÏßÆ×
-![](ÆÚ´ı.png)
+## äº”çº¿è°±
+![](æœŸå¾….png)
