@@ -35,4 +35,5 @@
 |竹语|闹闹丶|果汁凉菜|[bilibili](https://www.bilibili.com/video/av969746070)|[下载](./%E7%AB%B9%E8%AF%AD)|
 |期待|张卫|张卫|[bilibili](https://www.bilibili.com/video/av457733605)|[下载](./%E6%9C%9F%E5%BE%85)|
 |千里行走|暗杠|陆世杰|[网易云音乐](https://music.163.com/#/song?id=1385144622)|[下载](./千里行走)|
-|画里画外|没有龟壳的乌龟|St_色太|[bilibili](https://www.bilibili.com/video/av801130122)|[下载](./画里画外)
+|画里画外|没有龟壳的乌龟|St_色太|[bilibili](https://www.bilibili.com/video/av801130122)|[下载](./画里画外)|
+|我的青春分裂成了同名大小调|Adam_K|稗子|[bilibili](https://www.bilibili.com/video/av288981835)|[下载](./我的青春分裂成了同名大小调)|

@@ -7,7 +7,7 @@
 [女声ust](https://gitee.com/oxygendioxide/utau-projects/raw/master/我的青春分裂成了同名大小调/我的青春分裂成了同名大小调_女.ust)、
 [男声nn](https://gitee.com/oxygendioxide/utau-projects/raw/master/我的青春分裂成了同名大小调/我的青春分裂成了同名大小调_男.nn)、
 [女声nn](https://gitee.com/oxygendioxide/utau-projects/raw/master/我的青春分裂成了同名大小调/我的青春分裂成了同名大小调_女.nn)、
-[dv](https://gitee.com/oxygendioxide/utau-projects/raw/master/我的青春分裂成了同名大小调/我的青春分裂成了同名大小调.dv)、
+[dv](https://raw.sevencdn.com/oxygen-dioxide/utau-projects/master/%E6%88%91%E7%9A%84%E9%9D%92%E6%98%A5%E5%88%86%E8%A3%82%E6%88%90%E4%BA%86%E5%90%8C%E5%90%8D%E5%A4%A7%E5%B0%8F%E8%B0%83/%E6%88%91%E7%9A%84%E9%9D%92%E6%98%A5%E5%88%86%E8%A3%82%E6%88%90%E4%BA%86%E5%90%8C%E5%90%8D%E5%A4%A7%E5%B0%8F%E8%B0%83.dv)、
 [svip](https://gitee.com/oxygendioxide/utau-projects/raw/master/我的青春分裂成了同名大小调/我的青春分裂成了同名大小调.svip)、
 [musicxml](https://gitee.com/oxygendioxide/utau-projects/raw/master/我的青春分裂成了同名大小调/我的青春分裂成了同名大小调.musicxml)、
 [男声歌词](https://gitee.com/oxygendioxide/utau-projects/raw/master/我的青春分裂成了同名大小调/我的青春分裂成了同名大小调_男.txt)、
