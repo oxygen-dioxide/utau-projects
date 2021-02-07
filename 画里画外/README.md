@@ -67,3 +67,7 @@
 谁愿夜长候 谁愿梦长留
 谁只愿 你永远 坚定地 向前走
 ```
+
+## 其他平台链接
+[小冰乐坊](http://xstudio.pub/svip.html?id=130)、
+[midishow](https://www.midishow.com/midi/125573.html)

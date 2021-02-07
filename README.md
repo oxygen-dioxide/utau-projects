@@ -31,9 +31,10 @@
 |不揽清风不望月|纯白|初繁言|[bilibili](https://www.bilibili.com/video/BV1Fp4y1S7vd)|[下载](./%E4%B8%8D%E6%8F%BD%E6%B8%85%E9%A3%8E%E4%B8%8D%E6%9C%9B%E6%9C%88)
 |少女∞神明|芮晴|芮晴、欢明境|[bilibili](https://www.bilibili.com/video/BV1Ch411o7MZ)|[下载](./%E5%B0%91%E5%A5%B3%E7%A5%9E%E6%98%8E)
 |盛夏|冰零-Mahiru|萧翔泽/冰零-Mahiru|[bilibili](https://www.bilibili.com/video/av201773213)|[下载](./%E7%9B%9B%E5%A4%8F)|
-|糖果箭头|闹闹丶|还不快向菜J势力低头|[bilibili](https://www.bilibili.com/video/av584586390)|[下载](./%E7%B3%96%E6%9E%9C%E7%AE%AD%E5%A4%B4)|
-|竹语|闹闹丶|果汁凉菜|[bilibili](https://www.bilibili.com/video/av969746070)|[下载](./%E7%AB%B9%E8%AF%AD)|
-|期待|张卫|张卫|[bilibili](https://www.bilibili.com/video/av457733605)|[下载](./%E6%9C%9F%E5%BE%85)|
+|糖果箭头|闹闹丶|还不快向菜J势力低头|[bilibili](https://www.bilibili.com/video/av584586390)|[下载](./糖果箭头)|
+|竹语|闹闹丶|果汁凉菜|[bilibili](https://www.bilibili.com/video/av969746070)|[下载](./竹语)|
+|期待|张卫|张卫|[bilibili](https://www.bilibili.com/video/av457733605)|[下载](./期待)|
 |千里行走|暗杠|陆世杰|[网易云音乐](https://music.163.com/#/song?id=1385144622)|[下载](./千里行走)|
 |画里画外|没有龟壳的乌龟|St_色太|[bilibili](https://www.bilibili.com/video/av801130122)|[下载](./画里画外)|
 |我的青春分裂成了同名大小调|Adam_K|稗子|[bilibili](https://www.bilibili.com/video/av288981835)|[下载](./我的青春分裂成了同名大小调)|
+|樱符|地味子|溺眠_Die|[bilibili](https://www.bilibili.com/video/av629052772)|[下载](./樱符)|

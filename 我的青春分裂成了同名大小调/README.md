@@ -62,3 +62,7 @@
 同名的大小调 怪诞的一支歌
 它仅仅属于我 或者也与你共振过
 ```
+
+## 其他平台链接
+[小冰乐坊](http://xstudio.pub/svip.html?id=134)、
+[midishow](https://www.midishow.com/midi/125572.html)

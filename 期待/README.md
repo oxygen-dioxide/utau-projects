@@ -42,3 +42,6 @@
 ```
 ## 五线谱
 ![](期待.png)
+
+## 其他平台链接
+[小冰乐坊](http://xstudio.pub/svip.html?id=125)
