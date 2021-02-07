@@ -81,3 +81,7 @@
 花蕊 手心绽 花开春暖
 放眼去-看 春意盎然
 ```
+
+## 其他平台链接
+[小冰乐坊](http://xstudio.pub/svip.html?id=144)、
+[midishow](https://www.midishow.com/midi/126037.html)
