@@ -1,5 +1,5 @@
 # 樱符
-本家：[bilibili](https://www.bilibili.com/video/av288981835)
+本家：[bilibili](https://www.bilibili.com/video/av629052772)
 
 下载链接：（右键单击，选择“将链接另存为”）：
 [mid](https://gitee.com/oxygendioxide/utau-projects/raw/master/樱符/樱符.mid)、
