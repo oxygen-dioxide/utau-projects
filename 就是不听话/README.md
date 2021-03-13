@@ -1,3 +1,20 @@
+# 就是不听话
+本家：[bilibili](https://www.bilibili.com/video/av14969866)
+
+下载链接：（右键单击，选择“将链接另存为”）：
+[mid](https://gitee.com/oxygendioxide/utau-projects/raw/master/就是不听话/就是不听话.mid)、
+[ust](https://gitee.com/oxygendioxide/utau-projects/raw/master/就是不听话/就是不听话.ust)、
+[nn](https://gitee.com/oxygendioxide/utau-projects/raw/master/就是不听话/就是不听话.nn)、
+[dv](https://raw.sevencdn.com/oxygen-dioxide/utau-projects/master/就是不听话/就是不听话.dv)、
+[svip](https://gitee.com/oxygendioxide/utau-projects/raw/master/就是不听话/就是不听话.svip)、
+[txt歌词](https://gitee.com/oxygendioxide/utau-projects/raw/master/就是不听话/就是不听话.txt)、
+[lrc歌词](https://gitee.com/oxygendioxide/utau-projects/raw/master/就是不听话/就是不听话.lrc)、
+
+## STAFF
+作曲、作词、编曲：iKz
+
+## 歌词
+```
 夕阳快下山 
 我在日常罚站
 日记还没写完
@@ -52,3 +69,6 @@
 慢慢失败后改变 换回来满满的愿望实现
 就这样期待吧
 等到灵感变最大 在我的世界就不听话
+```
+## 其他平台链接
+[小冰乐坊](http://xstudio.pub/svip.html?id=187)
