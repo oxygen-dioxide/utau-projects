@@ -5,7 +5,7 @@
 [mid](https://gitee.com/oxygendioxide/utau-projects/raw/master/樱符/樱符.mid)、
 [ust](https://gitee.com/oxygendioxide/utau-projects/raw/master/樱符/樱符.ust)、
 [nn](https://gitee.com/oxygendioxide/utau-projects/raw/master/樱符/樱符.nn)、
-[dv](https://raw.sevencdn.com/oxygen-dioxide/utau-projects/master/樱符/樱符.dv)、
+[dv](https://github.com/oxygen-dioxide/utau-projects/blob/master/樱符/樱符.dv?raw=true)、
 [svip](https://gitee.com/oxygendioxide/utau-projects/raw/master/樱符/樱符.svip)、
 [musicxml](https://gitee.com/oxygendioxide/utau-projects/raw/master/樱符/樱符.musicxml)、
 [txt歌词](https://gitee.com/oxygendioxide/utau-projects/raw/master/樱符/樱符.txt)、
