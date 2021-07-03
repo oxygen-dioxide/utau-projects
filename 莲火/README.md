@@ -68,3 +68,7 @@
 焚尽汪洋与枷锁
 虚空无畏无神 我命不由我
 ```
+## 其他平台链接
+vsqx分享平台：[svip](https://www.vsqx.top/project/vn4028)、[dv](https://www.vsqx.top/project/vn4027)
+
+[midishow](https://www.midishow.com/midi/134532.html)

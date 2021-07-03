@@ -38,3 +38,4 @@
 |画里画外|没有龟壳的乌龟|St_色太|[bilibili](https://www.bilibili.com/video/av801130122)|[下载](./画里画外)|
 |我的青春分裂成了同名大小调|Adam_K|稗子|[bilibili](https://www.bilibili.com/video/av288981835)|[下载](./我的青春分裂成了同名大小调)|
 |樱符|地味子|溺眠_Die|[bilibili](https://www.bilibili.com/video/av629052772)|[下载](./樱符)|
+|莲火|甘璐|千月兔|[bilibili](https://www.bilibili.com/video/BV1Ky4y137Dw)|[下载](./莲火)|
