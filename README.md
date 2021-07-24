@@ -39,3 +39,4 @@
 |我的青春分裂成了同名大小调|Adam_K|稗子|[bilibili](https://www.bilibili.com/video/av288981835)|[下载](./我的青春分裂成了同名大小调)|
 |樱符|地味子|溺眠_Die|[bilibili](https://www.bilibili.com/video/av629052772)|[下载](./樱符)|
 |莲火|甘璐|千月兔|[bilibili](https://www.bilibili.com/video/BV1Ky4y137Dw)|[下载](./莲火)|
+|深秋之霜|AnnyJuly|AnnyJuly|[bilibili](https://www.bilibili.com/video/av419309927)|[下载](./深秋之霜)|
