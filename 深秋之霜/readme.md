@@ -79,4 +79,6 @@
 升华后就像从未存在一样
 ```
 ## 其他平台链接
-[Midishow](https://www.midishow.com/midi/135607.html)、[小冰乐坊](http://xstudio.pub/svip-318.html)
+[Midishow](https://www.midishow.com/midi/135607.html)、
+[小冰乐坊](http://xstudio.pub/svip-318.html)、
+vsqx.top（[dv](https://www.vsqx.top/project/vn4219)、[svip](https://www.vsqx.top/project/vn4220)、[mid](https://www.vsqx.top/project/vn4221)）
