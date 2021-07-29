@@ -7,6 +7,7 @@
 [nn](https://gitee.com/oxygendioxide/utau-projects/raw/master/深秋之霜/深秋之霜.nn)、
 [dv](https://github.com/oxygen-dioxide/utau-projects/blob/master/深秋之霜/深秋之霜.dv?raw=true)、
 [svip](https://gitee.com/oxygendioxide/utau-projects/raw/master/深秋之霜/深秋之霜.svip)、
+[vog](https://gitee.com/oxygendioxide/utau-projects/raw/master/深秋之霜/深秋之霜.vog)、
 [musicxml](https://gitee.com/oxygendioxide/utau-projects/raw/master/深秋之霜/深秋之霜.musicxml)、
 [txt歌词](https://gitee.com/oxygendioxide/utau-projects/raw/master/深秋之霜/深秋之霜.txt)
 
