@@ -1,0 +1,5674 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE score-partwise  PUBLIC "-//Recordare//DTD MusicXML 3.0 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
+<score-partwise version="3.0">
+  <movement-title>Music21 Fragment</movement-title>
+  <identification>
+    <creator type="composer">Music21</creator>
+    <encoding>
+      <encoding-date>2021-08-20</encoding-date>
+      <software>music21 v.6.7.1</software>
+    </encoding>
+  </identification>
+  <defaults>
+    <scaling>
+      <millimeters>7</millimeters>
+      <tenths>40</tenths>
+    </scaling>
+  </defaults>
+  <part-list>
+    <score-part id="P48fb499c8fa9d702318de72eb18a3444">
+      <part-name>歌声-音轨</part-name>
+    </score-part>
+  </part-list>
+  <!--=========================== Part 1 ===========================-->
+  <part id="P48fb499c8fa9d702318de72eb18a3444">
+    <!--========================= Measure 1 ==========================-->
+    <measure number="1">
+      <attributes>
+        <divisions>10080</divisions>
+        <key>
+          <fifths>3</fifths>
+          <mode>minor</mode>
+        </key>
+        <time>
+          <beats>4</beats>
+          <beat-type>4</beat-type>
+        </time>
+        <clef>
+          <sign>G</sign>
+          <line>2</line>
+        </clef>
+      </attributes>
+      <direction>
+        <direction-type>
+          <metronome parentheses="no">
+            <beat-unit>quarter</beat-unit>
+            <per-minute>135</per-minute>
+          </metronome>
+        </direction-type>
+        <sound tempo="135" />
+      </direction>
+      <note>
+        <rest measure="yes" />
+        <duration>40320</duration>
+      </note>
+    </measure>
+    <!--========================= Measure 2 ==========================-->
+    <measure number="2">
+      <note>
+        <rest measure="yes" />
+        <duration>40320</duration>
+      </note>
+    </measure>
+    <!--========================= Measure 3 ==========================-->
+    <measure number="3">
+      <note>
+        <rest measure="yes" />
+        <duration>40320</duration>
+      </note>
+    </measure>
+    <!--========================= Measure 4 ==========================-->
+    <measure number="4">
+      <note>
+        <rest measure="yes" />
+        <duration>40320</duration>
+      </note>
+    </measure>
+    <!--========================= Measure 5 ==========================-->
+    <measure number="5">
+      <note>
+        <rest measure="yes" />
+        <duration>40320</duration>
+      </note>
+    </measure>
+    <!--========================= Measure 6 ==========================-->
+    <measure number="6">
+      <note>
+        <rest measure="yes" />
+        <duration>40320</duration>
+      </note>
+    </measure>
+    <!--========================= Measure 7 ==========================-->
+    <measure number="7">
+      <note>
+        <rest measure="yes" />
+        <duration>40320</duration>
+      </note>
+    </measure>
+    <!--========================= Measure 8 ==========================-->
+    <measure number="8">
+      <note>
+        <rest measure="yes" />
+        <duration>40320</duration>
+      </note>
+    </measure>
+    <!--========================= Measure 9 ==========================-->
+    <measure number="9">
+      <note>
+        <rest measure="yes" />
+        <duration>40320</duration>
+      </note>
+    </measure>
+    <!--========================= Measure 10 =========================-->
+    <measure number="10">
+      <note>
+        <rest />
+        <duration>30240</duration>
+        <type>half</type>
+        <dot />
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>huo</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>E</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>shi</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 11 =========================-->
+    <measure number="11">
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>zao</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>shan</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>qu</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>lu</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>yin</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 12 =========================-->
+    <measure number="12">
+      <note>
+        <pitch>
+          <step>G</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>ren</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>E</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>wang</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>B</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>ren</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>lai</text>
+        </lyric>
+      </note>
+      <note>
+        <rest />
+        <duration>5040</duration>
+        <type>eighth</type>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>3</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>huo</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>A</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>shi</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 13 =========================-->
+    <measure number="13">
+      <note>
+        <pitch>
+          <step>B</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>yu</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>B</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>shui</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>A</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>da</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>B</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>qiao</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>B</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>xiao</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>A</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>guo</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 14 =========================-->
+    <measure number="14">
+      <note>
+        <pitch>
+          <step>B</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>tian</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>qian</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>E</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>bu</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>B</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>wei</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>ai</text>
+        </lyric>
+      </note>
+      <note>
+        <rest />
+        <duration>5040</duration>
+        <type>eighth</type>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>huo</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>E</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>shi</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 15 =========================-->
+    <measure number="15">
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>zou</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>ma</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>fei</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>E</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>ge</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>shao</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>shui</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 16 =========================-->
+    <measure number="16">
+      <note>
+        <pitch>
+          <step>G</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>huan</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>xi</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>E</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>bei</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>ai</text>
+        </lyric>
+      </note>
+      <note>
+        <rest />
+        <duration>5040</duration>
+        <type>eighth</type>
+      </note>
+      <note>
+        <pitch>
+          <step>E</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>you</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>yuan</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 17 =========================-->
+    <measure number="17">
+      <note>
+        <pitch>
+          <step>B</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>he</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>B</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>zai</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>A</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>qiu</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>B</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>na</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>B</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>xin</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>A</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>you</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 18 =========================-->
+    <measure number="18">
+      <note>
+        <pitch>
+          <step>B</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>ling</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>A</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>xi</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>wu</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>E</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>qiong</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>zai</text>
+        </lyric>
+      </note>
+      <note>
+        <rest />
+        <duration>5040</duration>
+        <type>eighth</type>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>jing</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>E</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>wei</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 19 =========================-->
+    <measure number="19">
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>tian</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>hai</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>bing</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>fei</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>dou</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 20 =========================-->
+    <measure number="20">
+      <note>
+        <pitch>
+          <step>G</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>xu</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>E</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>dan</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>B</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>gu</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>guai</text>
+        </lyric>
+      </note>
+      <note>
+        <rest />
+        <duration>5040</duration>
+        <type>eighth</type>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>3</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>yu</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>A</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>kun</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 21 =========================-->
+    <measure number="21">
+      <note>
+        <pitch>
+          <step>B</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>peng</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>B</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>shang</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>A</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>jiu</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>B</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>tian</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>B</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>qi</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>A</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>zhi</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 22 =========================-->
+    <measure number="22">
+      <note>
+        <pitch>
+          <step>B</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>qian</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>ren</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>E</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>gan</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>kai</text>
+        </lyric>
+      </note>
+      <note>
+        <rest />
+        <duration>5040</duration>
+        <type>eighth</type>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>ru</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>E</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>chen</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 23 =========================-->
+    <measure number="23">
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>shi</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>duo</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>shan</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <alter>1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>bian</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <alter>1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>yu</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 24 =========================-->
+    <measure number="24">
+      <note>
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">begin</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>jin</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <alter>1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">end</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>yu</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>G</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>jing</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>cai</text>
+        </lyric>
+      </note>
+      <note>
+        <rest />
+        <duration>5040</duration>
+        <type>eighth</type>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <alter>1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">begin</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>you</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">end</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>dao</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 25 =========================-->
+    <measure number="25">
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>shi</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <alter>1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">begin</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>jing</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">end</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>cheng</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>zhi</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>G</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>jin</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>E</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>shi</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 26 =========================-->
+    <measure number="26">
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>20160</duration>
+        <type>half</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>kai</text>
+        </lyric>
+      </note>
+      <note>
+        <rest />
+        <duration>10080</duration>
+        <type>quarter</type>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>gan</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>G</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>wei</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 27 =========================-->
+    <measure number="27">
+      <note>
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>tian</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>xia</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>15120</duration>
+        <type>quarter</type>
+        <dot />
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>xian</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">begin</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>sui</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>G</step>
+          <alter>1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">end</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>sui</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 28 =========================-->
+    <measure number="28">
+      <note>
+        <pitch>
+          <step>C</step>
+          <alter>1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>20160</duration>
+        <type>half</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>dai</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>20160</duration>
+        <type>half</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>dai</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 29 =========================-->
+    <measure number="29">
+      <note>
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>yong</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>chi</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>15120</duration>
+        <type>quarter</type>
+        <dot />
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>zi</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>qing</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 30 =========================-->
+    <measure number="30">
+      <note>
+        <pitch>
+          <step>C</step>
+          <alter>1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>20160</duration>
+        <type>half</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>huai</text>
+        </lyric>
+      </note>
+      <note>
+        <rest />
+        <duration>10080</duration>
+        <type>quarter</type>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>zong</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>G</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>gai</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 31 =========================-->
+    <measure number="31">
+      <note>
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>xu</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>yi</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>15120</duration>
+        <type>quarter</type>
+        <dot />
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>duan</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">begin</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>ni</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>G</step>
+          <alter>1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">end</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>wo</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 32 =========================-->
+    <measure number="32">
+      <note>
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>15120</duration>
+        <type>quarter</type>
+        <dot />
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>xin</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>chuan</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>20160</duration>
+        <type>half</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>qi</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 33 =========================-->
+    <measure number="33">
+      <note>
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>gong</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>hou</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>15120</duration>
+        <type>quarter</type>
+        <dot />
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>ren</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>G</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>gan</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 34 =========================-->
+    <measure number="34">
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>20160</duration>
+        <type>half</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>kai</text>
+        </lyric>
+      </note>
+      <note>
+        <rest />
+        <duration>10080</duration>
+        <type>quarter</type>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>yu</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>E</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>wen</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 35 =========================-->
+    <measure number="35">
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>heng</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>e</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>G</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>chan</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>gong</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>G</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>he</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>yuan</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 36 =========================-->
+    <measure number="36">
+      <note>
+        <pitch>
+          <step>G</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>bai</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>fang</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>G</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>ke</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>fou</text>
+        </lyric>
+      </note>
+      <note>
+        <rest />
+        <duration>5040</duration>
+        <type>eighth</type>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>wo</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>E</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>zhi</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 37 =========================-->
+    <measure number="37">
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>shen</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>qi</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>G</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>yuan</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>G</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>yi</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>tan</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 38 =========================-->
+    <measure number="38">
+      <note>
+        <pitch>
+          <step>C</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>hong</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>B</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>huang</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>E</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>yu</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>zhou</text>
+        </lyric>
+      </note>
+      <note>
+        <rest />
+        <duration>5040</duration>
+        <type>eighth</type>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>jiang</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>E</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>xing</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 39 =========================-->
+    <measure number="39">
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>he</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>E</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>zuo</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>da</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>hai</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>xu</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <alter>1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>na</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 40 =========================-->
+    <measure number="40">
+      <note>
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>bai</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>ge</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>G</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>zheng</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>liu</text>
+        </lyric>
+      </note>
+      <note>
+        <rest />
+        <duration>5040</duration>
+        <type>eighth</type>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>ge</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>E</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>wei</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 41 =========================-->
+    <measure number="41">
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>jing</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>dong</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>fang</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>bai</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>jing</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>E</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>ao</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 42 =========================-->
+    <measure number="42">
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>40320</duration>
+        <type>whole</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>tou</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 43 =========================-->
+    <measure number="43">
+      <note>
+        <rest measure="yes" />
+        <duration>40320</duration>
+      </note>
+    </measure>
+    <!--========================= Measure 44 =========================-->
+    <measure number="44">
+      <note>
+        <rest measure="yes" />
+        <duration>40320</duration>
+      </note>
+    </measure>
+    <!--========================= Measure 45 =========================-->
+    <measure number="45">
+      <note>
+        <rest measure="yes" />
+        <duration>40320</duration>
+      </note>
+    </measure>
+    <!--========================= Measure 46 =========================-->
+    <measure number="46">
+      <note>
+        <rest measure="yes" />
+        <duration>40320</duration>
+      </note>
+    </measure>
+    <!--========================= Measure 47 =========================-->
+    <measure number="47">
+      <note>
+        <rest measure="yes" />
+        <duration>40320</duration>
+      </note>
+    </measure>
+    <!--========================= Measure 48 =========================-->
+    <measure number="48">
+      <note>
+        <rest measure="yes" />
+        <duration>40320</duration>
+      </note>
+    </measure>
+    <!--========================= Measure 49 =========================-->
+    <measure number="49">
+      <note>
+        <rest measure="yes" />
+        <duration>40320</duration>
+      </note>
+    </measure>
+    <!--========================= Measure 50 =========================-->
+    <measure number="50">
+      <note>
+        <rest />
+        <duration>30240</duration>
+        <type>half</type>
+        <dot />
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>huo</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>E</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>shi</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 51 =========================-->
+    <measure number="51">
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>qian</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>mo</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>zong</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>heng</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>shu</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 52 =========================-->
+    <measure number="52">
+      <note>
+        <pitch>
+          <step>G</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>ji</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>E</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>shu</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>B</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>dao</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>mai</text>
+        </lyric>
+      </note>
+      <note>
+        <rest />
+        <duration>5040</duration>
+        <type>eighth</type>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>3</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>huo</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>A</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>shi</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 53 =========================-->
+    <measure number="53">
+      <note>
+        <pitch>
+          <step>B</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>gao</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>B</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>lou</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>A</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>guang</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>B</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>sha</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>B</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>an</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>A</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>dun</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 54 =========================-->
+    <measure number="54">
+      <note>
+        <pitch>
+          <step>B</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>chui</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>yan</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>E</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>ji</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>B</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>lv</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>bai</text>
+        </lyric>
+      </note>
+      <note>
+        <rest />
+        <duration>5040</duration>
+        <type>eighth</type>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>huo</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>E</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>shi</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 55 =========================-->
+    <measure number="55">
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>ku</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>zhou</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>shan</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>E</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>ji</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>lve</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>jin</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 56 =========================-->
+    <measure number="56">
+      <note>
+        <pitch>
+          <step>G</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>jiang</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>he</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>E</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>peng</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>pai</text>
+        </lyric>
+      </note>
+      <note>
+        <rest />
+        <duration>5040</duration>
+        <type>eighth</type>
+      </note>
+      <note>
+        <pitch>
+          <step>E</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>you</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>yuan</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 57 =========================-->
+    <measure number="57">
+      <note>
+        <pitch>
+          <step>B</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>he</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>B</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>zai</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>A</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>zhu</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>B</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>na</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>B</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>tie</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>A</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>ma</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 58 =========================-->
+    <measure number="58">
+      <note>
+        <pitch>
+          <step>B</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>tong</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>A</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>niu</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>geng</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>E</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>sai</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>wai</text>
+        </lyric>
+      </note>
+      <note>
+        <rest />
+        <duration>5040</duration>
+        <type>eighth</type>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>kua</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>E</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>fu</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 59 =========================-->
+    <measure number="59">
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>zhui</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>ri</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>chu</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>chu</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>shi</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 60 =========================-->
+    <measure number="60">
+      <note>
+        <pitch>
+          <step>G</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>kai</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>E</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>chuang</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>B</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>qi</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>gai</text>
+        </lyric>
+      </note>
+      <note>
+        <rest />
+        <duration>5040</duration>
+        <type>eighth</type>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>3</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>gong</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>A</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>shu</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 61 =========================-->
+    <measure number="61">
+      <note>
+        <pitch>
+          <step>B</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>ban</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>B</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>zao</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>A</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>mu</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>B</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>yuan</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>B</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>yi</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>A</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>ming</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 62 =========================-->
+    <measure number="62">
+      <note>
+        <pitch>
+          <step>B</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>chong</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>tian</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>E</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>jing</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>hai</text>
+        </lyric>
+      </note>
+      <note>
+        <rest />
+        <duration>5040</duration>
+        <type>eighth</type>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>ru</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>E</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>zhuang</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 63 =========================-->
+    <measure number="63">
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>zhi</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>duo</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>chang</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <alter>1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>xiang</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <alter>1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>yu</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 64 =========================-->
+    <measure number="64">
+      <note>
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">begin</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>jin</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <alter>1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">end</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>yu</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>G</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>hao</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>mai</text>
+        </lyric>
+      </note>
+      <note>
+        <rest />
+        <duration>5040</duration>
+        <type>eighth</type>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <alter>1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">begin</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>lu</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">end</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>man</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 65 =========================-->
+    <measure number="65">
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>man</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <alter>1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">begin</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>reng</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">end</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>qiu</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>suo</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>G</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>zhong</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>E</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>kai</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 66 =========================-->
+    <measure number="66">
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>20160</duration>
+        <type>half</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>huai</text>
+        </lyric>
+      </note>
+      <note>
+        <rest />
+        <duration>10080</duration>
+        <type>quarter</type>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>shao</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>G</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>nian</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 67 =========================-->
+    <measure number="67">
+      <note>
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>dang</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>zi</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>15120</duration>
+        <type>quarter</type>
+        <dot />
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>qiang</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">begin</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>xin</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>G</step>
+          <alter>1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">end</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>huai</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 68 =========================-->
+    <measure number="68">
+      <note>
+        <pitch>
+          <step>C</step>
+          <alter>1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>20160</duration>
+        <type>half</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>shen</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>20160</duration>
+        <type>half</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>zhou</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 69 =========================-->
+    <measure number="69">
+      <note>
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>ri</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>yue</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>15120</duration>
+        <type>quarter</type>
+        <dot />
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>tong</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>wo</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 70 =========================-->
+    <measure number="70">
+      <note>
+        <pitch>
+          <step>C</step>
+          <alter>1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>20160</duration>
+        <type>half</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>zai</text>
+        </lyric>
+      </note>
+      <note>
+        <rest />
+        <duration>10080</duration>
+        <type>quarter</type>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>you</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>G</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>xing</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 71 =========================-->
+    <measure number="71">
+      <note>
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>xie</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>xian</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>15120</duration>
+        <type>quarter</type>
+        <dot />
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>bei</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">begin</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>ji</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>G</step>
+          <alter>1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">end</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>wang</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 72 =========================-->
+    <measure number="72">
+      <note>
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>15120</duration>
+        <type>quarter</type>
+        <dot />
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>dang</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>kai</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>20160</duration>
+        <type>half</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>lai</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 73 =========================-->
+    <measure number="73">
+      <note>
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>qian</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>kun</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>15120</duration>
+        <type>quarter</type>
+        <dot />
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>wei</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>G</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>zhu</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 74 =========================-->
+    <measure number="74">
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>20160</duration>
+        <type>half</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>zai</text>
+        </lyric>
+      </note>
+      <note>
+        <rest />
+        <duration>10080</duration>
+        <type>quarter</type>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>yu</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>E</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>wen</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 75 =========================-->
+    <measure number="75">
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>heng</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>e</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>G</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>chan</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>gong</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>G</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>he</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>yuan</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 76 =========================-->
+    <measure number="76">
+      <note>
+        <pitch>
+          <step>G</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>bai</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>fang</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>G</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>ke</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>fou</text>
+        </lyric>
+      </note>
+      <note>
+        <rest />
+        <duration>5040</duration>
+        <type>eighth</type>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>wo</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>E</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>zhi</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 77 =========================-->
+    <measure number="77">
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>shen</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>qi</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>G</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>yuan</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>G</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>yi</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>tan</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 78 =========================-->
+    <measure number="78">
+      <note>
+        <pitch>
+          <step>C</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>hong</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>B</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>huang</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>E</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>yu</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>zhou</text>
+        </lyric>
+      </note>
+      <note>
+        <rest />
+        <duration>5040</duration>
+        <type>eighth</type>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>jiang</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>E</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>xing</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 79 =========================-->
+    <measure number="79">
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>he</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>E</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>zuo</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>da</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>hai</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>xu</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <alter>1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>na</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 80 =========================-->
+    <measure number="80">
+      <note>
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>bai</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>ge</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>G</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>zheng</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>liu</text>
+        </lyric>
+      </note>
+      <note>
+        <rest />
+        <duration>5040</duration>
+        <type>eighth</type>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>ge</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>E</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>wei</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 81 =========================-->
+    <measure number="81">
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>jing</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>dong</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>fang</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>bai</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>jing</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>E</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>ao</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 82 =========================-->
+    <measure number="82">
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>20160</duration>
+        <type>half</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>tou</text>
+        </lyric>
+      </note>
+      <note>
+        <rest />
+        <duration>10080</duration>
+        <type>quarter</type>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>cang</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>E</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>sang</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 83 =========================-->
+    <measure number="83">
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>bian</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>huan</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>G</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>hong</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>hong</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>G</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>lie</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>lie</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 84 =========================-->
+    <measure number="84">
+      <note>
+        <pitch>
+          <step>G</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>gui</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>le</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>G</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>chun</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>qiu</text>
+        </lyric>
+      </note>
+      <note>
+        <rest />
+        <duration>5040</duration>
+        <type>eighth</type>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>wo</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>E</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>chi</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 85 =========================-->
+    <measure number="85">
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>zheng</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>dao</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>G</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>qian</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>G</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>zhong</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>lang</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 86 =========================-->
+    <measure number="86">
+      <note>
+        <pitch>
+          <step>C</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>qing</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>B</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>shan</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>E</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>yi</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>jiu</text>
+        </lyric>
+      </note>
+      <note>
+        <rest />
+        <duration>5040</duration>
+        <type>eighth</type>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>ji</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>E</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>li</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 87 =========================-->
+    <measure number="87">
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>liang</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>E</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>xing</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>bang</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>guo</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>chou</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <alter>1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>yi</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 88 =========================-->
+    <measure number="88">
+      <note>
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>ren</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>jian</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>G</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>feng</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>shou</text>
+        </lyric>
+      </note>
+      <note>
+        <rest />
+        <duration>5040</duration>
+        <type>eighth</type>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>ju</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>E</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>wang</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 89 =========================-->
+    <measure number="89">
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>yi</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>shu</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>feng</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>liu</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>shui</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>E</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>wei</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 90 =========================-->
+    <measure number="90">
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>40320</duration>
+        <type>whole</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>shou</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 91 =========================-->
+    <measure number="91">
+      <note>
+        <rest measure="yes" />
+        <duration>40320</duration>
+      </note>
+      <barline location="right">
+        <bar-style>light-heavy</bar-style>
+      </barline>
+    </measure>
+  </part>
+</score-partwise>

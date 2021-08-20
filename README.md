@@ -10,7 +10,7 @@
 歌声合成工程配布，提供ust、nn、sk、dv、带歌词mid、lrc文件
 
 #### 使用规约
-允许二次配布，或转换为其他乐谱格式二次配布，但必须提供本页面链接（https://gitee.com/oxygendioxide/utau-projects）
+允许二次配布，或转换为其他乐谱格式二次配布，但必须提供本页面链接（ https://gitee.com/oxygendioxide/utau-projects ）
 
 使用这里的工程制作的作品允许投稿至各大平台，但必须注明工程来源：oxygen dioxide
 
@@ -44,3 +44,12 @@
 |樱符|地味子|溺眠_Die|[bilibili](https://www.bilibili.com/video/av629052772)|[下载](./樱符)|
 |莲火|甘璐|千月兔|[bilibili](https://www.bilibili.com/video/BV1Ky4y137Dw)|[下载](./莲火)|
 |深秋之霜|AnnyJuly|AnnyJuly|[bilibili](https://www.bilibili.com/video/av419309927)|[下载](./深秋之霜)|
+
+#### 标签说明
+1. 音乐特征
+- 节拍：*二拍* *三拍* *五拍*
+- 调性：*小调* （*和声小调*） *大调* *五声音阶*
+- 和弦走向：*卡农*
+
+2. 风格
+*古风* *土嗨* *蓝调* *苏联* *燃*
